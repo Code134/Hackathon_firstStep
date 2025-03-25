@@ -1,0 +1,256 @@
+{
+  "variation_templates": {
+    "new_request": [
+      {
+        "subject": "Loan Inquiry - Request for Loan Details (Set {set_no})",
+        "body": "Hello,\n\nI would like to request details on my loan for Set {set_no}. My account number is {acc_no}. Please send the information at your earliest convenience.\n\nThank you,\nCustomer"
+      },
+      {
+        "subject": "Loan Inquiry: Request for Loan Details (Set {set_no})",
+        "body": "Dear Team,\n\nCould you kindly provide the details of my loan for Set {set_no}? My account number is {acc_no}. I appreciate a prompt response.\n\nRegards,\nCustomer"
+      },
+      {
+        "subject": "Request for Loan Information - Loan Inquiry (Set {set_no})",
+        "body": "Hi,\n\nI am writing to request the latest details on my loan for Set {set_no}. My account number {acc_no} is registered with you. Looking forward to your response.\n\nBest,\nCustomer"
+      },
+      {
+        "subject": "Immediate Loan Inquiry: Request for Loan Details (Set {set_no})",
+        "body": "Hello,\n\nI need some details regarding my loan for Set {set_no}. My account is {acc_no}. Please provide the information as soon as possible.\n\nSincerely,\nCustomer"
+      },
+      {
+        "subject": "Urgent Loan Details Request (Set {set_no})",
+        "body": "Hello,\n\nThis is to request details about my loan for Set {set_no}. My account number is {acc_no}. Kindly send the details swiftly.\n\nThank you,\nCustomer"
+      },
+      {
+        "subject": "Loan Details Inquiry - Urgent Request (Set {set_no})",
+        "body": "Dear Support,\n\nI request the loan details for Set {set_no} associated with account {acc_no}. Please address this request at your earliest convenience.\n\nThank you,\nCustomer"
+      },
+      {
+        "subject": "Detailed Loan Inquiry (Set {set_no}) - Request",
+        "body": "Hi,\n\nI am seeking detailed information on my loan for Set {set_no} linked to account {acc_no}. I would appreciate a timely response.\n\nRegards,\nCustomer"
+      },
+      {
+        "subject": "Loan Inquiry: Detailed Request for Loan Information (Set {set_no})",
+        "body": "Hello,\n\nPlease send me the detailed information regarding my loan for Set {set_no}. My account number is {acc_no}. I eagerly await your response.\n\nBest regards,\nCustomer"
+      },
+      {
+        "subject": "Request for Loan Details (Set {set_no}) - Loan Inquiry",
+        "body": "Dear Team,\n\nI am in need of my loan details for Set {set_no}. My account number {acc_no} is with you. Please expedite the information.\n\nSincerely,\nCustomer"
+      },
+      {
+        "subject": "Loan Request: Seeking Details (Set {set_no})",
+        "body": "Hi,\n\nCould you please provide the loan details for Set {set_no}? My account number is {acc_no}. I appreciate your prompt assistance.\n\nThank you,\nCustomer"
+      }
+    ],
+    "follow_up": [
+      {
+        "subject": "Loan Inquiry Follow-Up - Request for Loan Details (Set {set_no})",
+        "body": "Hello,\n\nI am following up on my previous request regarding my loan details for Set {set_no}. I haven't received any update yet. Kindly respond as soon as possible.\n\nThank you,\nCustomer"
+      },
+      {
+        "subject": "Follow-Up: Loan Inquiry (Set {set_no}) - Request for Details",
+        "body": "Hi Team,\n\nThis is a gentle reminder for the loan details requested for Set {set_no}. My account number is {acc_no}. Please update me soon.\n\nBest,\nCustomer"
+      },
+      {
+        "subject": "Reminder: Request for Loan Details (Set {set_no})",
+        "body": "Dear Support,\n\nI am writing to follow up on my request for the loan details for Set {set_no}. My account number {acc_no} is pending review. Your prompt reply would be appreciated.\n\nRegards,\nCustomer"
+      },
+      {
+        "subject": "Follow-Up Inquiry: Loan Details Request (Set {set_no})",
+        "body": "Hello,\n\nI would like to check the status of my previous request for loan details for Set {set_no}. My account is {acc_no}. Please update me at the earliest.\n\nThank you,\nCustomer"
+      },
+      {
+        "subject": "Loan Details Request - Follow-Up Needed (Set {set_no})",
+        "body": "Hi,\n\nFollowing my earlier request, I still require the details of my loan for Set {set_no}. My account number is {acc_no}. I look forward to your prompt response.\n\nSincerely,\nCustomer"
+      },
+      {
+        "subject": "Follow-Up Reminder: Loan Inquiry (Set {set_no})",
+        "body": "Dear Team,\n\nI haven't received any information regarding my previous request on loan details for Set {set_no}. Please update me soon. My account is {acc_no}.\n\nThank you,\nCustomer"
+      },
+      {
+        "subject": "Second Request: Loan Details Follow-Up (Set {set_no})",
+        "body": "Hi,\n\nThis is a follow-up regarding my request for loan details for Set {set_no} (Account: {acc_no}). I would appreciate a prompt update.\n\nRegards,\nCustomer"
+      },
+      {
+        "subject": "Update Needed: Loan Details Inquiry Follow-Up (Set {set_no})",
+        "body": "Hello,\n\nI am following up on the loan inquiry regarding Set {set_no} (Account {acc_no}). Please provide an update as soon as possible.\n\nThanks,\nCustomer"
+      },
+      {
+        "subject": "Follow-Up on Loan Inquiry (Set {set_no}) - Request for Update",
+        "body": "Dear Support,\n\nThis is a reminder for the pending request for loan details for Set {set_no} associated with account {acc_no}. Your urgent response is requested.\n\nRegards,\nCustomer"
+      },
+      {
+        "subject": "Reminder Follow-Up: Loan Information Request (Set {set_no})",
+        "body": "Hi Team,\n\nI am contacting you again regarding my earlier request for loan details for Set {set_no} (Acc: {acc_no}). Kindly provide an update at your earliest convenience.\n\nThank you,\nCustomer"
+      }
+    ],
+    "update": [
+      {
+        "subject": "Loan Inquiry Update - Request for Loan Details (Set {set_no})",
+        "body": "Hello,\n\nI'd like to update my request for loan details for Set {set_no}. I now require the latest information on my outstanding balance and the next payment date.\n\nThank you,\nCustomer"
+      },
+      {
+        "subject": "Update: Request for Revised Loan Details (Set {set_no})",
+        "body": "Dear Team,\n\nI'm writing to request an update for my loan details for Set {set_no}. My account {acc_no} requires the latest balance and upcoming payment information.\n\nBest,\nCustomer"
+      },
+      {
+        "subject": "Loan Details Update Request (Set {set_no})",
+        "body": "Hi,\n\nI need an update on my previous loan details request for Set {set_no}. Please provide current information regarding the outstanding balance and due date for account {acc_no}.\n\nThank you,\nCustomer"
+      },
+      {
+        "subject": "Request for Latest Loan Information Update (Set {set_no})",
+        "body": "Hello,\n\nI'd appreciate it if you could update my existing request for loan details for Set {set_no}. I am specifically looking for details on my outstanding balance and next payment date for account {acc_no}.\n\nRegards,\nCustomer"
+      },
+      {
+        "subject": "Update Needed: Revised Loan Details Request (Set {set_no})",
+        "body": "Dear Support,\n\nPlease update the loan information for Set {set_no} associated with {acc_no}. I need the most current details on my outstanding balance and payment schedule.\n\nThank you,\nCustomer"
+      },
+      {
+        "subject": "Request for Loan Information Update (Set {set_no})",
+        "body": "Hi Team,\n\nCan you please provide an updated version of my loan details for Set {set_no}? I am looking for revised information on account {acc_no}, including balance and next payment date.\n\nThanks,\nCustomer"
+      },
+      {
+        "subject": "Loan Inquiry - Update Request (Set {set_no})",
+        "body": "Hello,\n\nI am writing to request an update on my loan details for Set {set_no}. My account {acc_no} needs refreshing with the latest information.\n\nSincerely,\nCustomer"
+      },
+      {
+        "subject": "Updated Loan Request Information (Set {set_no})",
+        "body": "Dear Team,\n\nI would like to update my previous request for loan details for Set {set_no} (Account: {acc_no}). Please provide updated information on my current balance and next payment date.\n\nRegards,\nCustomer"
+      },
+      {
+        "subject": "Loan Request Update - Seeking Latest Details (Set {set_no})",
+        "body": "Hi,\n\nKindly update my request for loan details for Set {set_no}. I need the latest information regarding my balance and upcoming payment for account {acc_no}.\n\nThank you,\nCustomer"
+      },
+      {
+        "subject": "Revised Loan Details Request Update (Set {set_no})",
+        "body": "Hello,\n\nI wish to update my loan details inquiry for Set {set_no}. Please provide current data on my outstanding balance and next payment date for account {acc_no}.\n\nThank you,\nCustomer"
+      }
+    ],
+    "angry": [
+      {
+        "subject": "Urgent Loan Inquiry - Immediate Action Needed (Set {set_no})",
+        "body": "Hello,\n\nI am extremely upset due to the lack of response regarding my loan details for Set {set_no}. My account number is {acc_no}, and I demand immediate action to resolve this issue.\n\nRegards,\nVery Concerned Customer"
+      },
+      {
+        "subject": "Immediate Attention Required - Loan Details Not Received (Set {set_no})",
+        "body": "Dear Support,\n\nI am frustrated by the prolonged delay in receiving my loan details for Set {set_no}. My account {acc_no} should have been updated by now. I demand prompt action.\n\nSincerely,\nCustomer"
+      },
+      {
+        "subject": "Escalation Notice: Unresponsive Loan Inquiry (Set {set_no})",
+        "body": "Hello,\n\nI am very disappointed with the lack of communication regarding my loan details for Set {set_no}. Account {acc_no} is pending response, and this needs to be addressed urgently.\n\nRegards,\nCustomer"
+      },
+      {
+        "subject": "Complaint: No Response on Loan Details Request (Set {set_no})",
+        "body": "Hi,\n\nThe delay in providing loan details for Set {set_no} is unacceptable. My account {acc_no} has not been attended to. I expect immediate resolution.\n\nRegards,\nCustomer"
+      },
+      {
+        "subject": "Frustrated with Service - Loan Information Delay (Set {set_no})",
+        "body": "Hello,\n\nI have not received my loan details for Set {set_no} (Account: {acc_no}). This lack of communication is causing significant frustration, and I need an immediate update.\n\nSincerely,\nCustomer"
+      },
+      {
+        "subject": "Immediate Response Needed - Ignored Loan Details Request (Set {set_no})",
+        "body": "Dear Team,\n\nIt is unacceptable that my loan details for Set {set_no} (Account: {acc_no}) have not been provided despite my request. Please address this matter immediately.\n\nRegards,\nCustomer"
+      },
+      {
+        "subject": "Urgent Action Required - Loan Inquiry Unresolved (Set {set_no})",
+        "body": "Hello,\n\nI am writing in anger regarding the unresolved loan details inquiry for Set {set_no}. My account {acc_no} has been ignored for too long. Immediate action is required.\n\nSincerely,\nCustomer"
+      },
+      {
+        "subject": "Follow-Up on Neglected Loan Inquiry (Set {set_no})",
+        "body": "Hi,\n\nI am compelled to follow up on my ignored loan inquiry for Set {set_no} (Account: {acc_no}). The delay is causing considerable inconvenience. Immediate resolution is necessary.\n\nThank you,\nCustomer"
+      },
+      {
+        "subject": "Complaint: Urgent Loan Details Needed Now (Set {set_no})",
+        "body": "Hello,\n\nI am extremely dissatisfied with the inaction regarding my loan details for Set {set_no} linked to {acc_no}. I demand an immediate response and resolution.\n\nRegards,\nAngry Customer"
+      },
+      {
+        "subject": "Immediate Resolution Required: Loan Details Request (Set {set_no})",
+        "body": "Dear Support,\n\nDue to the continuous delay, I am extremely upset about the missing loan details for Set {set_no}. My account ({acc_no}) requires your urgent attention. Please fix this issue immediately.\n\nRegards,\nVery Concerned Customer"
+      }
+    ],
+    "general_update": [
+      {
+        "subject": "Re: Loan Inquiry - Request for Loan Details (Set {set_no})",
+        "body": "Hello,\n\nI am writing to remind you that my original request for loan details for Set {set_no} is still pending. Your prompt attention to this matter would be appreciated.\n\nSincerely,\nCustomer"
+      },
+      {
+        "subject": "Reminder: Pending Loan Details Request (Set {set_no})",
+        "body": "Hi,\n\nI would like to remind you about my existing request for loan details for Set {set_no}. Please update me on this matter when possible.\n\nThank you,\nCustomer"
+      },
+      {
+        "subject": "Loan Details Request Reminder (Set {set_no})",
+        "body": "Dear Team,\n\nThis is a reminder that I have not yet received the loan details for Set {set_no}. Kindly provide an update at your earliest convenience.\n\nRegards,\nCustomer"
+      },
+      {
+        "subject": "Follow-Up: Still Awaiting Loan Details (Set {set_no})",
+        "body": "Hello,\n\nI am reaching out again as my previous request for loan details for Set {set_no} remains unanswered. Please provide an update soon.\n\nThank you,\nCustomer"
+      },
+      {
+        "subject": "Pending Request: Loan Details (Set {set_no})",
+        "body": "Hi,\n\nI kindly remind you to send the loan details for Set {set_no}. I am still waiting for a response regarding my earlier inquiry.\n\nThanks,\nCustomer"
+      },
+      {
+        "subject": "Loan Inquiry Update Needed (Set {set_no})",
+        "body": "Dear Support,\n\nI would appreciate an update on my pending loan details request for Set {set_no}. Please advise on the current status.\n\nSincerely,\nCustomer"
+      },
+      {
+        "subject": "Request Reminder: Loan Details (Set {set_no})",
+        "body": "Hello,\n\nJust a reminder that I am still awaiting the details of my loan for Set {set_no}. Please let me know the status as soon as possible.\n\nRegards,\nCustomer"
+      },
+      {
+        "subject": "Loan Details Enquiry Follow-Up (Set {set_no})",
+        "body": "Hi,\n\nI am writing to gently remind you about my pending request for loan details for Set {set_no}. I look forward to hearing from you soon.\n\nThank you,\nCustomer"
+      },
+      {
+        "subject": "Follow-Up on Loan Inquiry (Set {set_no})",
+        "body": "Dear Team,\n\nI wanted to follow up on my previous loan details request for Set {set_no}. Please provide the necessary information regarding my inquiry.\n\nThank you,\nCustomer"
+      },
+      {
+        "subject": "Reminder: Loan Inquiry Still Pending (Set {set_no})",
+        "body": "Hello,\n\nI am writing this follow-up to check on the status of my loan details request for Set {set_no}. Please address the pending request as soon as possible.\n\nThank you,\nCustomer"
+      }
+    ],
+    "duplicate": [
+      {
+        "subject": "Loan Inquiry - Request for Loan Details (Set {set_no})",
+        "body": "Hello,\n\nI would like to request details on my loan for Set {set_no}. My account number is {acc_no}. Please send the information at your earliest convenience.\n\nThank you,\nCustomer"
+      },
+      {
+        "subject": "Loan Inquiry: Request for Loan Details (Set {set_no}) [Duplicate]",
+        "body": "Dear Team,\n\nI am resubmitting my request for loan details for Set {set_no}. My account number is {acc_no}. Please provide the required information as soon as possible.\n\nRegards,\nCustomer"
+      },
+      {
+        "subject": "Duplicate Request: Loan Details for Set {set_no}",
+        "body": "Hi,\n\nI noticed my initial request might not have been processed. Please provide the loan details for Set {set_no} (Account: {acc_no}).\n\nThank you,\nCustomer"
+      },
+      {
+        "subject": "Follow-Up Duplicate - Request for Loan Details (Set {set_no})",
+        "body": "Hello,\n\nI am sending a duplicate request for loan details regarding Set {set_no} as I have not received a response. My account number is {acc_no}.\n\nThank you,\nCustomer"
+      },
+      {
+        "subject": "Loan Details Request Duplicate (Set {set_no})",
+        "body": "Dear Support,\n\nI am re-requesting the details on my loan for Set {set_no}. My account number {acc_no} remains unattended. Please expedite the process.\n\nRegards,\nCustomer"
+      },
+      {
+        "subject": "Duplicate Inquiry: Loan Details Needed (Set {set_no})",
+        "body": "Hi,\n\nI am sending this duplicate inquiry for my loan details for Set {set_no} (Account: {acc_no}). Please respond promptly.\n\nThank you,\nCustomer"
+      },
+      {
+        "subject": "Urgent Duplicate Request: Loan Details (Set {set_no})",
+        "body": "Hello,\n\nIt seems my previous request for loan details for Set {set_no} has not been answered. I am resubmitting this request for account {acc_no}. Immediate attention is appreciated.\n\nSincerely,\nCustomer"
+      },
+      {
+        "subject": "Resubmission of Loan Inquiry (Duplicate) (Set {set_no})",
+        "body": "Dear Team,\n\nI am resubmitting my request for loan details for Set {set_no} as I haven't received a response. My account {acc_no} needs urgent attention.\n\nThank you,\nCustomer"
+      },
+      {
+        "subject": "Duplicate Loan Details Request (Set {set_no})",
+        "body": "Hi,\n\nPlease note that this is a duplicate request for my loan details for Set {set_no}. My account number {acc_no} still requires an update. Kindly provide the details.\n\nRegards,\nCustomer"
+      },
+      {
+        "subject": "Resending: Loan Inquiry - Request for Loan Details (Set {set_no})",
+        "body": "Hello,\n\nI am resending my request for loan details for Set {set_no} (Account: {acc_no}). I haven't received a response, so please address the issue urgently.\n\nThank you,\nCustomer"
+      }
+    ]
+  }
+}
