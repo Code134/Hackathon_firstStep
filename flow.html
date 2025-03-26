@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Revised Email Routing System Flow Diagram</title>
+  <!-- Import Mermaid (v10.9.3) -->
+  <script type="module">
+    import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
+    mermaid.initialize({ startOnLoad: true });
+  </script>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+      background-color: #f7f7f7;
+    }
+    .mermaid {
+      text-align: center;
+      margin: auto;
+    }
+    h1 {
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <h1>Revised Email Routing System Flow Diagram</h1>
+  <div class="mermaid">
+    %%{init: {'theme': 'default', 'flowchart': {'curve': 'linear'}}}%%
+    graph TD
+      A["Email Ingestion Service<br/>(Receives incoming emails)"]
+      B["Raw Email Storage<br/>(MongoDB: 'emails' collection)"]
+      C["Resource Extraction Service<br/>(Processes attachments via Tika/Textract/Tesseract)"]
+      D["Extracted Attachments Storage<br/>(Standardized extracted text)"]
+      E["Orchestration/Workflow Manager<br/>(Aggregates email body + extracted text)"]
+      F["Aggregate Content<br/>(Email body + attachments text)"]
+      
+      %% First decision: check if the email is a duplicate (i.e. sent twice)
+      G["Duplicate Check<br/>(Is this email a duplicate?)"]
+      
+      %% Branch if duplicate found
+      G1["Flag as Duplicate<br/>(Retrieve cached result)"]
+      
+      %% If not duplicate, then check for known pattern (i.e. recurring requests)
+      H["Known Pattern Check<br/>(Is sender a known recurring requester?)"]
+      
+      %% Branch for recurring known pattern
+      H1["Known Pattern Branch<br/>(Retrieve cached pattern data)"]
+      I["Lightweight Confirmation Check<br/>(Confirm request details)"]
+
+      %% If not a known pattern then use full analysis
+      J["Full Processing Chain<br/>(Request Identification, Field Extraction, Assignment)"]
+      
+      K["Final Processed Request<br/>(Stored in 'processed_requests')"]
+
+      %% Define flow:
+      A --> B
+      B --> C
+      C --> D
+      B --> E
+      D --> E
+      E --> F
+      
+      F --> G
+      
+      G -- "Yes" --> G1
+      G -- "No" --> H
+      
+      H -- "Yes" --> H1
+      H1 --> I
+      I --> K
+      
+      H -- "No" --> J
+      J --> K
+      
+      G1 --> K
+  </div>
+</body>
+</html>
