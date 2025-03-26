@@ -1,0 +1,3640 @@
+[{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdf53"
+  },
+  "email_id": "EML0001",
+  "sender": "Seth Moss",
+  "sender_email": "bstokes@example.com",
+  "is_update_case": false,
+  "subject": "Follow-Up: Still Awaiting Loan Details (Set 1)",
+  "body": "Hello,\n\nI am reaching out again as my previous request for loan details for Set 1 remains unanswered. Please provide an update soon.\n\nThank you,\nCustomer",
+  "attachments": [
+    "Attachment_9536.docx",
+    "Attachment_8168.html",
+    "Attachment_9484.pdf"
+  ],
+  "received_at": "2025-03-21T15:25:20.585275",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdf54"
+  },
+  "email_id": "EML0002",
+  "sender": "Alyssa Garcia",
+  "sender_email": "glenda65@example.com",
+  "is_update_case": false,
+  "subject": "Follow-Up Reminder: Loan Inquiry (Set 16)",
+  "body": "Dear Team,\n\nneed info on loan details for Set 16. Please update me soon. My account is 346888.\n\nThank you,\nCustomer",
+  "attachments": [
+    "Attachment_2349.txt",
+    "Attachment_9142.zip"
+  ],
+  "received_at": "2025-03-25T20:13:20.589132",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdf55"
+  },
+  "email_id": "EML0003",
+  "sender": "David Gill",
+  "sender_email": "jacquelineolson@example.org",
+  "is_update_case": true,
+  "subject": "Loan Details Update Request (Set 6)",
+  "body": "Hi,\n\nI need an update on my previous loan details request for Set 6. Please provide current information regarding the outstanding balance and due date for account 972981.\n\nThank you,\nCustomer",
+  "attachments": [
+    "Attachment_6807.docx",
+    "Attachment_4964.html",
+    "Attachment_9456.docx",
+    "Update_EML0003.txt"
+  ],
+  "received_at": "2025-03-06T11:08:20.640290",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdf56"
+  },
+  "email_id": "EML0004",
+  "sender": "Vanessa May",
+  "sender_email": "cheryl57@example.com",
+  "is_update_case": false,
+  "subject": "Loan Inquiry: Detailed Request for Loan Information (Set 10)",
+  "body": "Hello,\n\nPlease send me the detailed information regarding my loan for Set 10. My account number is 529262. I eagerly await your response.\n\nBest regards,\nCustomer",
+  "attachments": [
+    "Attachment_4431.xlsx",
+    "Attachment_5730.xlsx"
+  ],
+  "received_at": "2025-03-24T15:54:20.846911",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdf57"
+  },
+  "email_id": "EML0005",
+  "sender": "Mary Williams",
+  "sender_email": "hblake@example.com",
+  "is_update_case": false,
+  "subject": "Loan Details Request Reminder (Set 19)",
+  "body": "Dear Team,\n\nThis is a reminder that I have not yet received the loan details for Set 19. Kindly provide an update at your earliest convenience.\n\nRegards,\nCustomer",
+  "attachments": [
+    "Attachment_1420.xlsx"
+  ],
+  "received_at": "2025-02-28T21:18:20.857310",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdf58"
+  },
+  "email_id": "EML0006",
+  "sender": "Christy Griffin",
+  "sender_email": "schambers@example.com",
+  "is_update_case": true,
+  "subject": "Request for Loan Information Update (Set 1)",
+  "body": "Hi Team,\n\nCan you please provide an updated version of my loan details for Set 1? I am looking for revised information on account 576326, including balance and next payment date.\n\nThanks,\nCustomer",
+  "attachments": [
+    "Attachment_7409.zip",
+    "Update_EML0006.txt"
+  ],
+  "received_at": "2025-03-06T00:44:20.861635",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdf59"
+  },
+  "email_id": "EML0007",
+  "sender": "Alexandra Mcpherson",
+  "sender_email": "bookermarvin@example.org",
+  "is_update_case": false,
+  "subject": "Loan Details Request - Follow-Up Needed (Set 17)",
+  "body": "Hi,\n\nno update 10 emails Set 17. My account number is 792101. I look forward to your prompt response.\n\nSincerely,\nCustomer",
+  "attachments": [
+    "Attachment_2789.xlsx",
+    "Attachment_9559.pdf"
+  ],
+  "received_at": "2025-03-21T16:55:20.873459",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdf5a"
+  },
+  "email_id": "EML0008",
+  "sender": "Sara Harrison",
+  "sender_email": "kara28@example.com",
+  "is_update_case": false,
+  "subject": "Re: Loan Inquiry - Request for Loan Details (Set 4)",
+  "body": "Hello,\n\nI am writing to remind you that my original request for loan details for Set 4 is still pending. Your prompt attention to this matter would be appreciated.\n\nSincerely,\nCustomer",
+  "attachments": [
+    "Attachment_7467.zip",
+    "Attachment_3885.msg",
+    "Attachment_4489.txt"
+  ],
+  "received_at": "2025-03-12T22:15:20.877996",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdf5b"
+  },
+  "email_id": "EML0009",
+  "sender": "Keith Williams",
+  "sender_email": "cindy58@example.org",
+  "is_update_case": false,
+  "subject": "Reminder: Pending Loan Details Request (Set 6)",
+  "body": "Hi,\n\nI would like to remind you about my existing request for loan details for Set 6. Please update me on this matter when possible.\n\nThank you,\nCustomer",
+  "attachments": [
+    "Attachment_8525.png",
+    "Attachment_3365.zip",
+    "Attachment_5032.csv"
+  ],
+  "received_at": "2025-03-21T02:27:21.490967",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdf5c"
+  },
+  "email_id": "EML0010",
+  "sender": "Jeremy Martin",
+  "sender_email": "bryan80@example.com",
+  "is_update_case": true,
+  "subject": "Loan Inquiry - Update Request (Set 9)",
+  "body": "Hello,\n\nI am writing to request an update on my loan details for Set 9. My account 331070 needs refreshing with the latest information.\n\nSincerely,\nCustomer",
+  "attachments": [
+    "Attachment_2028.jpg",
+    "Attachment_4047.csv",
+    "Update_EML0010.txt"
+  ],
+  "received_at": "2025-03-04T15:48:21.991917",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdf5d"
+  },
+  "email_id": "EML0011",
+  "sender": "Paul Douglas",
+  "sender_email": "craig74@example.com",
+  "is_update_case": false,
+  "subject": "Request Reminder: Loan Details (Set 6)",
+  "body": "Hello,\n\nJust a reminder that I am still awaiting the details of my loan for Set 6. Please let me know the status as soon as possible.\n\nRegards,\nCustomer",
+  "attachments": [
+    "Attachment_1622.png",
+    "Attachment_2459.pdf",
+    "Attachment_2635.png"
+  ],
+  "received_at": "2025-03-19T11:44:23.062254",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdf5e"
+  },
+  "email_id": "EML0012",
+  "sender": "Susan Gray",
+  "sender_email": "mary86@example.com",
+  "is_update_case": false,
+  "subject": "Second Request: Loan Details Follow-Up (Set 4)",
+  "body": "Hi,\n\nshare details of  4 (Account: 936178). I would appreciate a prompt update.\n\nRegards,\nCustomer",
+  "attachments": [
+    "Attachment_1515.zip",
+    "Attachment_6557.xlsx",
+    "Attachment_6606.png"
+  ],
+  "received_at": "2025-03-07T21:29:23.641241",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdf5f"
+  },
+  "email_id": "EML0013",
+  "sender": "Connie Parsons",
+  "sender_email": "irichard@example.net",
+  "is_update_case": false,
+  "subject": "Follow-Up on Loan Inquiry (Set 5)",
+  "body": "Dear Team,\n\nI wanted to follow up on my previous loan details request for Set 5. Please provide the necessary information regarding my inquiry.\n\nThank you,\nCustomer",
+  "attachments": [
+    "Attachment_6713.pdf",
+    "Attachment_5458.pdf",
+    "Attachment_5374.txt"
+  ],
+  "received_at": "2025-03-14T05:20:23.645938",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdf60"
+  },
+  "email_id": "EML0014",
+  "sender": "Amanda King",
+  "sender_email": "dlopez@example.net",
+  "is_update_case": true,
+  "subject": "Loan Details Update Request (Set 12)",
+  "body": "Hi,\n\nI need an update on my previous loan details request for Set 12. Please provide current information regarding the outstanding balance and due date for account 353320.\n\nThank you,\nCustomer",
+  "attachments": [
+    "Attachment_1773.jpg",
+    "Update_EML0014.txt"
+  ],
+  "received_at": "2025-03-23T10:48:24.348674",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdf61"
+  },
+  "email_id": "EML0015",
+  "sender": "Anna Garza",
+  "sender_email": "longrobert@example.net",
+  "is_update_case": false,
+  "subject": "Loan Inquiry - Request for Loan Details (Set 2)",
+  "body": "Hello,\n\nI would like to request details on my loan for Set 2. My account number is 985937. Please send the information at your earliest convenience.\n\nThank you,\nCustomer",
+  "attachments": [
+    "Attachment_5596.jpg",
+    "Attachment_5994.docx"
+  ],
+  "received_at": "2025-03-10T19:12:24.911818",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdf62"
+  },
+  "email_id": "EML0016",
+  "sender": "Amanda Garcia",
+  "sender_email": "kristalewis@example.net",
+  "is_update_case": true,
+  "subject": "Update: Request for Revised Loan Details (Set 20)",
+  "body": "Dear Team,\n\nI'm writing to request an update for my loan details for Set 20. My account 614919 requires the latest balance and upcoming payment information.\n\nBest,\nCustomer",
+  "attachments": [
+    "Attachment_8257.zip",
+    "Attachment_4779.xlsx",
+    "Update_EML0016.txt"
+  ],
+  "received_at": "2025-02-23T14:20:24.926289",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdf63"
+  },
+  "email_id": "EML0017",
+  "sender": "Donald Thomas",
+  "sender_email": "garzachad@example.org",
+  "is_update_case": true,
+  "subject": "Update Needed: Revised Loan Details Request (Set 15)",
+  "body": "Dear Support,\n\nPlease update the loan information for Set 15 associated with 826190. I need the most current details on my outstanding balance and payment schedule.\n\nThank you,\nCustomer",
+  "attachments": [
+    "Attachment_2297.html",
+    "Update_EML0017.txt"
+  ],
+  "received_at": "2025-03-01T05:02:24.928363",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdf64"
+  },
+  "email_id": "EML0018",
+  "sender": "Brian Jennings",
+  "sender_email": "bperez@example.net",
+  "is_update_case": false,
+  "subject": "Loan Inquiry: Detailed Request for Loan Information (Set 12)",
+  "body": "Hello,\n\nPlease send me the detailed information regarding my loan for Set 12. My account number is 448902. I eagerly await your response.\n\nBest regards,\nCustomer",
+  "attachments": [
+    "Attachment_2284.txt"
+  ],
+  "received_at": "2025-03-04T11:13:24.929290",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdf65"
+  },
+  "email_id": "EML0019",
+  "sender": "Patricia Stevenson",
+  "sender_email": "jasonmartinez@example.org",
+  "is_update_case": false,
+  "subject": "Reminder: Pending Loan Details Request (Set 5)",
+  "body": "Hi,\n\nI would like to remind you about my existing request for loan details for Set 5. Please update me on this matter when possible.\n\nThank you,\nCustomer",
+  "attachments": [
+    "Attachment_1003.png",
+    "Attachment_6968.msg"
+  ],
+  "received_at": "2025-03-23T14:41:25.469985",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdf66"
+  },
+  "email_id": "EML0020",
+  "sender": "Angela Morgan",
+  "sender_email": "shirley32@example.com",
+  "is_update_case": true,
+  "subject": "Loan Request Update - Seeking Latest Details (Set 10)",
+  "body": "Hi,\n\nKindly update my request for loan details for Set 10. I need the latest information regarding my balance and upcoming payment for account 112292.\n\nThank you,\nCustomer",
+  "attachments": [
+    "Attachment_8654.zip",
+    "Attachment_2956.pdf",
+    "Update_EML0020.txt"
+  ],
+  "received_at": "2025-03-25T02:06:25.475427",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdf67"
+  },
+  "email_id": "EML0021",
+  "sender": "Justin Thompson",
+  "sender_email": "mary71@example.org",
+  "is_update_case": true,
+  "subject": "Updated Loan Request Information (Set 11)",
+  "body": "Dear Team,\n\nI would like to update my previous request for loan details for Set 11 (Account: 342252). Please provide updated information on my current balance and next payment date.\n\nRegards,\nCustomer",
+  "attachments": [
+    "Attachment_5096.zip",
+    "Update_EML0021.txt"
+  ],
+  "received_at": "2025-03-17T14:47:25.480027",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdf68"
+  },
+  "email_id": "EML0022",
+  "sender": "Donald Oneill",
+  "sender_email": "markmiller@example.org",
+  "is_update_case": false,
+  "subject": "Loan Inquiry - Request for Loan Details (Set 17)",
+  "body": "Hello,\n\nI would like to request details on my loan for Set 17. My account number is 953165. Please send the information at your earliest convenience.\n\nThank you,\nCustomer",
+  "attachments": [
+    "Attachment_8543.docx",
+    "Attachment_4883.pdf",
+    "Attachment_3902.jpg"
+  ],
+  "received_at": "2025-03-06T21:45:26.020252",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdf69"
+  },
+  "email_id": "EML0023",
+  "sender": "Natasha Vincent",
+  "sender_email": "bowersdennis@example.com",
+  "is_update_case": false,
+  "subject": "Loan Details Enquiry Follow-Up (Set 3)",
+  "body": "Hi,\n\nI am writing to gently remind you about my pending request for loan details for Set 3. I look forward to hearing from you soon.\n\nThank you,\nCustomer",
+  "attachments": [
+    "Attachment_4593.docx",
+    "Attachment_9490.csv",
+    "Attachment_9083.jpg"
+  ],
+  "received_at": "2025-03-24T15:46:26.547952",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdf6a"
+  },
+  "email_id": "EML0024",
+  "sender": "Frank Alexander",
+  "sender_email": "joseph53@example.net",
+  "is_update_case": false,
+  "subject": "Immediate Loan Inquiry: Request for Loan Details (Set 6)",
+  "body": "Hello,\n\nI need some details regarding my loan for Set 6. My account is 528581. Please provide the information as soon as possible.\n\nSincerely,\nCustomer",
+  "attachments": [
+    "Attachment_2983.txt"
+  ],
+  "received_at": "2025-02-27T09:56:26.549204",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdf6b"
+  },
+  "email_id": "EML0025",
+  "sender": "Thomas Mills",
+  "sender_email": "anthony91@example.org",
+  "is_update_case": true,
+  "subject": "Revised Loan Details Request Update (Set 15)",
+  "body": "Hello,\n\nI wish to update my loan details inquiry for Set 15. Please provide current data on my outstanding balance and next payment date for account 681534.\n\nThank you,\nCustomer",
+  "attachments": [
+    "Attachment_2108.png",
+    "Update_EML0025.txt"
+  ],
+  "received_at": "2025-02-26T13:05:27.092394",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdf6c"
+  },
+  "email_id": "EML0026",
+  "sender": "Katrina Todd",
+  "sender_email": "myersgary@example.org",
+  "is_update_case": false,
+  "subject": "Follow-Up Inquiry: Loan Details Request (Set 1)",
+  "body": "Hello,\n\nI would like enquire on previous request for loan details for Set 1. My account is 816156. Please update me at the earliest.\n\nThank you,\nCustomer",
+  "attachments": [
+    "Attachment_3583.xlsx"
+  ],
+  "received_at": "2025-03-02T04:26:27.103358",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdf6d"
+  },
+  "email_id": "EML0027",
+  "sender": "Colleen Davis",
+  "sender_email": "kathy14@example.com",
+  "is_update_case": true,
+  "subject": "Update: Request for Revised Loan Details (Set 13)",
+  "body": "Dear Team,\n\nI'm writing to request an update for my loan details for Set 13. My account 663989 requires the latest balance and upcoming payment information.\n\nBest,\nCustomer",
+  "attachments": [
+    "Attachment_2222.jpg",
+    "Attachment_1017.html",
+    "Attachment_2708.png",
+    "Update_EML0027.txt"
+  ],
+  "received_at": "2025-03-04T02:52:28.171249",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdf6e"
+  },
+  "email_id": "EML0028",
+  "sender": "Brandon Moore",
+  "sender_email": "gwendolynli@example.com",
+  "is_update_case": true,
+  "subject": "Loan Inquiry - Update Request (Set 9)",
+  "body": "Hello,\n\nI am writing to request an update on my loan details for Set 9. My account 252461 needs refreshing with the latest information.\n\nSincerely,\nCustomer",
+  "attachments": [
+    "Attachment_3366.html",
+    "Attachment_6337.jpg",
+    "Update_EML0028.txt"
+  ],
+  "received_at": "2025-03-22T23:20:28.729247",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdf6f"
+  },
+  "email_id": "EML0029",
+  "sender": "Donald Oneill",
+  "sender_email": "markmiller@example.org",
+  "is_update_case": false,
+  "subject": "Loan Inquiry - Request for Loan Details (Set 17)",
+  "body": "Hello,\n\nI would like to request details on my loan for Set 17. My account number is 953165. Please send the information at your earliest convenience.\n\nThank you,\nCustomer",
+  "attachments": [
+    "Attachment_8543.docx",
+    "Attachment_4883.pdf",
+    "Attachment_3902.jpg"
+  ],
+  "received_at": "2025-03-04T00:10:28.729264",
+  "status": "unprocessed",
+  "is_duplicate": true
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdf70"
+  },
+  "email_id": "EML0030",
+  "sender": "Amanda King",
+  "sender_email": "dlopez@example.net",
+  "is_update_case": true,
+  "subject": "Loan Details Update Request (Set 12)",
+  "body": "Hi,\n\nI need an update on my previous loan details request for Set 12. Please provide current information regarding the outstanding balance and due date for account 353320.\n\nThank you,\nCustomer",
+  "attachments": [
+    "Attachment_1773.jpg",
+    "Update_EML0014.txt"
+  ],
+  "received_at": "2025-03-18T09:38:28.729272",
+  "status": "unprocessed",
+  "is_duplicate": true
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdf71"
+  },
+  "email_id": "EML0031",
+  "sender": "Seth Moss",
+  "sender_email": "bstokes@example.com",
+  "is_update_case": false,
+  "subject": "Follow-Up: Still Awaiting Loan Details (Set 1)",
+  "body": "Hello,\n\nI am reaching out again as my previous request for loan details for Set 1 remains unanswered. Please provide an update soon.\n\nThank you,\nCustomer",
+  "attachments": [
+    "Attachment_9536.docx",
+    "Attachment_8168.html",
+    "Attachment_9484.pdf"
+  ],
+  "received_at": "2025-03-04T13:38:28.729278",
+  "status": "unprocessed",
+  "is_duplicate": true
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdf72"
+  },
+  "email_id": "EML0032",
+  "sender": "Nathaniel Ochoa",
+  "sender_email": "jamesbriggs@example.com",
+  "is_update_case": true,
+  "subject": "Loan Inquiry - Update Request (Set 19)",
+  "body": "Hello,\n\nI am writing to request an update on my loan details for Set 19. My account 698474 needs refreshing with the latest information.\n\nSincerely,\nCustomer",
+  "attachments": [
+    "Attachment_4898.pdf",
+    "Update_EML0032.txt"
+  ],
+  "received_at": "2025-03-04T12:32:28.732230",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdf73"
+  },
+  "email_id": "EML0033",
+  "sender": "Alexandra Hawkins",
+  "sender_email": "daughertytina@example.org",
+  "is_update_case": false,
+  "subject": "Immediate Loan Inquiry: Request for Loan Details (Set 7)",
+  "body": "Hello,\n\nI need some details regarding my loan for Set 7. My account is 856457. Please provide the information as soon as possible.\n\nSincerely,\nCustomer",
+  "attachments": [
+    "Attachment_9743.pdf",
+    "Attachment_7611.docx",
+    "Attachment_6424.zip"
+  ],
+  "received_at": "2025-02-28T09:39:28.761290",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdf74"
+  },
+  "email_id": "EML0034",
+  "sender": "Allison Small",
+  "sender_email": "lowescott@example.org",
+  "is_update_case": false,
+  "subject": "Request for Loan Information - Loan Inquiry (Set 13)",
+  "body": "Hi,\n\nI am writing to request the latest details on my loan for Set 13. My account number 678794 is registered with you. Looking forward to your response.\n\nBest,\nCustomer",
+  "attachments": [
+    "Attachment_4111.html",
+    "Attachment_9584.txt"
+  ],
+  "received_at": "2025-02-23T06:29:28.763105",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdf75"
+  },
+  "email_id": "EML0035",
+  "sender": "Daniel Mitchell",
+  "sender_email": "rasmussenmargaret@example.net",
+  "is_update_case": false,
+  "subject": "Follow-Up on Loan Inquiry (Set 8)",
+  "body": "Dear Team,\n\nI wanted to follow up on my previous loan details request for Set 8. Please provide the necessary information regarding my inquiry.\n\nThank you,\nCustomer",
+  "attachments": [
+    "Attachment_9604.docx"
+  ],
+  "received_at": "2025-03-17T18:31:28.783846",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdf76"
+  },
+  "email_id": "EML0036",
+  "sender": "Jessica Peterson",
+  "sender_email": "erinpotts@example.net",
+  "is_update_case": true,
+  "subject": "Request for Latest Loan Information Update (Set 2)",
+  "body": "Hello,\n\nI'd appreciate it if you could update my existing request for loan details for Set 2. I am specifically looking for details on my outstanding balance and next payment date for account 625632.\n\nRegards,\nCustomer",
+  "attachments": [
+    "Attachment_7144.jpg",
+    "Update_EML0036.txt"
+  ],
+  "received_at": "2025-03-10T22:36:29.352322",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdf77"
+  },
+  "email_id": "EML0037",
+  "sender": "Russell Diaz",
+  "sender_email": "agarcia@example.org",
+  "is_update_case": false,
+  "subject": "Follow-Up: Still Awaiting Loan Details (Set 1)",
+  "body": "Hello,\n\nI am reaching out again as my previous request for loan details for Set 1 remains unanswered. Please provide an update soon.\n\nThank you,\nCustomer",
+  "attachments": [
+    "Attachment_4221.zip"
+  ],
+  "received_at": "2025-03-04T15:47:29.355962",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdf78"
+  },
+  "email_id": "EML0038",
+  "sender": "Dana Stephens",
+  "sender_email": "mmartinez@example.net",
+  "is_update_case": false,
+  "subject": "Urgent Loan Details Request (Set 18)",
+  "body": "Hello,\n\nThis is to request details about my loan for Set 18. My account number is 792870. Kindly send the details swiftly.\n\nThank you,\nCustomer",
+  "attachments": [
+    "Attachment_7345.zip",
+    "Attachment_7848.pdf"
+  ],
+  "received_at": "2025-03-16T03:08:29.362730",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdf79"
+  },
+  "email_id": "EML0039",
+  "sender": "Eric Hendricks",
+  "sender_email": "marshallamy@example.org",
+  "is_update_case": false,
+  "subject": "Loan Inquiry - Request for Loan Details (Set 14)",
+  "body": "Hello,\n\nI would like to request details on my loan for Set 14. My account number is 758459. Please send the information at your earliest convenience.\n\nThank you,\nCustomer",
+  "attachments": [
+    "Attachment_2556.zip",
+    "Attachment_4879.docx"
+  ],
+  "received_at": "2025-02-26T15:53:29.386588",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdf7a"
+  },
+  "email_id": "EML0040",
+  "sender": "Claudia Roth",
+  "sender_email": "allisonmarsh@example.net",
+  "is_update_case": true,
+  "subject": "Request for Loan Information Update (Set 1)",
+  "body": "Hi Team,\n\nCan you please provide an updated version of my loan details for Set 1? I am looking for revised information on account 584503, including balance and next payment date.\n\nThanks,\nCustomer",
+  "attachments": [
+    "Attachment_7372.csv",
+    "Attachment_3667.xlsx",
+    "Attachment_9068.msg",
+    "Update_EML0040.txt"
+  ],
+  "received_at": "2025-03-07T11:17:29.412012",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdf7b"
+  },
+  "email_id": "EML0041",
+  "sender": "Richard Harding",
+  "sender_email": "nmelton@example.net",
+  "is_update_case": false,
+  "subject": "Reminder: Request for Loan Details (Set 8)",
+  "body": "Dear Support,\n\nI am writing to check on my request for the loan details for Set 8. My account number 526459 is pending review. Your prompt reply would be appreciated.\n\nRegards,\nCustomer",
+  "attachments": [
+    "Attachment_9512.docx",
+    "Attachment_1065.zip",
+    "Attachment_8054.zip"
+  ],
+  "received_at": "2025-03-02T14:16:29.440372",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdf7c"
+  },
+  "email_id": "EML0042",
+  "sender": "Susan Castillo",
+  "sender_email": "kylebarnes@example.net",
+  "is_update_case": true,
+  "subject": "Loan Inquiry Update - Request for Loan Details (Set 8)",
+  "body": "Hello,\n\nI'd like to update my request for loan details for Set 8. I now require the latest information on my outstanding balance and the next payment date.\n\nThank you,\nCustomer",
+  "attachments": [
+    "Attachment_1324.docx",
+    "Update_EML0042.txt"
+  ],
+  "received_at": "2025-03-17T15:24:29.463481",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdf7d"
+  },
+  "email_id": "EML0043",
+  "sender": "Jessica Peterson",
+  "sender_email": "erinpotts@example.net",
+  "is_update_case": false,
+  "subject": "Follow-Up: Still Awaiting Loan Details (Set 11)",
+  "body": "Hello,\n\nI am reaching out again as my previous request for loan details for Set 11 remains unanswered. Please provide an update soon.\n\nThank you,\nCustomer",
+  "attachments": [
+    "Attachment_4691.zip",
+    "Attachment_9608.msg"
+  ],
+  "received_at": "2025-03-23T02:20:29.467927",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdf7e"
+  },
+  "email_id": "EML0044",
+  "sender": "Becky Beck",
+  "sender_email": "cynthia10@example.com",
+  "is_update_case": true,
+  "subject": "Loan Details Update Request (Set 13)",
+  "body": "Hi,\n\nI need an update on my previous loan details request for Set 13. Please provide current information regarding the outstanding balance and due date for account 882720.\n\nThank you,\nCustomer",
+  "attachments": [
+    "Attachment_9490.docx",
+    "Update_EML0044.txt"
+  ],
+  "received_at": "2025-03-03T19:36:29.490824",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdf7f"
+  },
+  "email_id": "EML0045",
+  "sender": "Steven Campbell",
+  "sender_email": "james64@example.org",
+  "is_update_case": false,
+  "subject": "Second Request: Loan Details Follow-Up (Set 5)",
+  "body": "Hi,\n\nThis is a follow-up regarding my request for loan details for Set 5 (Account: 395445). I would appreciate a prompt update.\n\nRegards,\nCustomer",
+  "attachments": [
+    "Attachment_4892.jpg",
+    "Attachment_6676.txt"
+  ],
+  "received_at": "2025-02-28T10:35:29.991141",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdf80"
+  },
+  "email_id": "EML0046",
+  "sender": "Deanna Johnson",
+  "sender_email": "autumn51@example.com",
+  "is_update_case": false,
+  "subject": "Follow-Up: Still Awaiting Loan Details (Set 2)",
+  "body": "Hello,\n\nI am reaching out again as my previous request for loan details for Set 2 remains unanswered. Please provide an update soon.\n\nThank you,\nCustomer",
+  "attachments": [
+    "Attachment_2990.png"
+  ],
+  "received_at": "2025-03-04T17:37:30.578380",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdf81"
+  },
+  "email_id": "EML0047",
+  "sender": "Natasha Vincent",
+  "sender_email": "bowersdennis@example.com",
+  "is_update_case": false,
+  "subject": "Reminder: Request for Loan Details (Set 16)",
+  "body": "Dear Support,\n\nI am writing to check on my request for the loan details for Set 16. My account number 243071 is pending review. Your prompt reply would be appreciated.\n\nRegards,\nCustomer",
+  "attachments": [
+    "Attachment_2447.jpg"
+  ],
+  "received_at": "2025-03-11T12:39:31.096731",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdf82"
+  },
+  "email_id": "EML0048",
+  "sender": "Jackson Cervantes",
+  "sender_email": "betty55@example.com",
+  "is_update_case": true,
+  "subject": "Revised Loan Details Request Update (Set 11)",
+  "body": "Hello,\n\nI wish to update my loan details inquiry for Set 11. Please provide current data on my outstanding balance and next payment date for account 934987.\n\nThank you,\nCustomer",
+  "attachments": [
+    "Attachment_1611.zip",
+    "Attachment_7828.jpg",
+    "Update_EML0048.txt"
+  ],
+  "received_at": "2025-03-23T23:14:31.621464",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdf83"
+  },
+  "email_id": "EML0049",
+  "sender": "Mark Palmer",
+  "sender_email": "brandonmartinez@example.org",
+  "is_update_case": true,
+  "subject": "Revised Loan Details Request Update (Set 2)",
+  "body": "Hello,\n\nI wish to update my loan details inquiry for Set 2. Please provide current data on my outstanding balance and next payment date for account 316883.\n\nThank you,\nCustomer",
+  "attachments": [
+    "Attachment_9068.pdf",
+    "Update_EML0049.txt"
+  ],
+  "received_at": "2025-03-01T14:26:31.624346",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdf84"
+  },
+  "email_id": "EML0050",
+  "sender": "Kimberly Avila",
+  "sender_email": "lisasalazar@example.com",
+  "is_update_case": false,
+  "subject": "Follow-Up Inquiry: Loan Details Request (Set 9)",
+  "body": "Hello,\n\nI would like enquire on previous request for loan details for Set 9. My account is 849866. Please update me at the earliest.\n\nThank you,\nCustomer",
+  "attachments": [
+    "Attachment_7023.zip",
+    "Attachment_5339.csv",
+    "Attachment_8357.pdf"
+  ],
+  "received_at": "2025-03-06T03:13:31.629786",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdf85"
+  },
+  "email_id": "EML0051",
+  "sender": "David Bass",
+  "sender_email": "diazalyssa@example.org",
+  "is_update_case": true,
+  "subject": "Loan Inquiry - Update Request (Set 8)",
+  "body": "Hello,\n\nI am writing to request an update on my loan details for Set 8. My account 154760 needs refreshing with the latest information.\n\nSincerely,\nCustomer",
+  "attachments": [
+    "Attachment_9950.png",
+    "Attachment_7395.html",
+    "Update_EML0051.txt"
+  ],
+  "received_at": "2025-03-09T05:38:32.185019",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdf86"
+  },
+  "email_id": "EML0052",
+  "sender": "Christopher Lane",
+  "sender_email": "sean75@example.com",
+  "is_update_case": true,
+  "subject": "Updated Loan Request Information (Set 7)",
+  "body": "Dear Team,\n\nI would like to update my previous request for loan details for Set 7 (Account: 762601). Please provide updated information on my current balance and next payment date.\n\nRegards,\nCustomer",
+  "attachments": [
+    "Attachment_1449.png",
+    "Update_EML0052.txt"
+  ],
+  "received_at": "2025-03-16T20:45:32.754944",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdf87"
+  },
+  "email_id": "EML0053",
+  "sender": "Karen Smith",
+  "sender_email": "pwalter@example.net",
+  "is_update_case": false,
+  "subject": "Loan Details Request - Follow-Up Needed (Set 9)",
+  "body": "Hi,\n\nno update 10 emails Set 9. My account number is 944381. I look forward to your prompt response.\n\nSincerely,\nCustomer",
+  "attachments": [
+    "Attachment_4492.txt",
+    "Attachment_1226.png"
+  ],
+  "received_at": "2025-03-14T01:00:33.300981",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdf88"
+  },
+  "email_id": "EML0054",
+  "sender": "Gregory Baker",
+  "sender_email": "suzannemiddleton@example.com",
+  "is_update_case": false,
+  "subject": "Immediate Loan Inquiry: Request for Loan Details (Set 17)",
+  "body": "Hello,\n\nI need some details regarding my loan for Set 17. My account is 705456. Please provide the information as soon as possible.\n\nSincerely,\nCustomer",
+  "attachments": [
+    "Attachment_1536.xlsx"
+  ],
+  "received_at": "2025-03-25T08:15:33.310047",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdf89"
+  },
+  "email_id": "EML0055",
+  "sender": "Ralph Russell",
+  "sender_email": "bsnyder@example.com",
+  "is_update_case": false,
+  "subject": "Reminder Follow-Up: Loan Information Request (Set 3)",
+  "body": "Hi Team,\n\nI am contacting you again regarding my earlier request for loan details for Set 3 (Acc: 561495). Kindly provide an update at your earliest convenience.\n\nThank you,\nCustomer",
+  "attachments": [
+    "Attachment_2568.docx"
+  ],
+  "received_at": "2025-03-24T01:14:33.335276",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdf8a"
+  },
+  "email_id": "EML0056",
+  "sender": "Krystal Cook",
+  "sender_email": "lopezjacob@example.net",
+  "is_update_case": false,
+  "subject": "Second Request: Loan Details Follow-Up (Set 18)",
+  "body": "Hi,\n\nshare details of  18 (Account: 892379). I would appreciate a prompt update.\n\nRegards,\nCustomer",
+  "attachments": [
+    "Attachment_5570.html"
+  ],
+  "received_at": "2025-03-16T04:12:33.336622",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdf8b"
+  },
+  "email_id": "EML0057",
+  "sender": "Joy Ferguson",
+  "sender_email": "colemanelizabeth@example.org",
+  "is_update_case": false,
+  "subject": "Loan Inquiry - Request for Loan Details (Set 17)",
+  "body": "Hello,\n\nI would like to request details on my loan for Set 17. My account number is 211212. Please send the information at your earliest convenience.\n\nThank you,\nCustomer",
+  "attachments": [
+    "Attachment_2446.txt",
+    "Attachment_7980.jpg",
+    "Attachment_6626.csv"
+  ],
+  "received_at": "2025-03-21T02:09:33.849025",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdf8c"
+  },
+  "email_id": "EML0058",
+  "sender": "Shannon Hall",
+  "sender_email": "amberparsons@example.org",
+  "is_update_case": false,
+  "subject": "Loan Details Enquiry Follow-Up (Set 3)",
+  "body": "Hi,\n\nI am writing to gently remind you about my pending request for loan details for Set 3. I look forward to hearing from you soon.\n\nThank you,\nCustomer",
+  "attachments": [
+    "Attachment_9960.msg",
+    "Attachment_3112.xlsx"
+  ],
+  "received_at": "2025-03-24T09:57:33.864331",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdf8d"
+  },
+  "email_id": "EML0059",
+  "sender": "Hannah Porter",
+  "sender_email": "kevinmartinez@example.com",
+  "is_update_case": true,
+  "subject": "Loan Details Update Request (Set 2)",
+  "body": "Hi,\n\nI need an update on my previous loan details request for Set 2. Please provide current information regarding the outstanding balance and due date for account 969468.\n\nThank you,\nCustomer",
+  "attachments": [
+    "Attachment_9283.zip",
+    "Update_EML0059.txt"
+  ],
+  "received_at": "2025-03-19T12:43:33.870700",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdf8e"
+  },
+  "email_id": "EML0060",
+  "sender": "Travis Phelps",
+  "sender_email": "kelsey82@example.net",
+  "is_update_case": true,
+  "subject": "Loan Inquiry Update - Request for Loan Details (Set 5)",
+  "body": "Hello,\n\nI'd like to update my request for loan details for Set 5. I now require the latest information on my outstanding balance and the next payment date.\n\nThank you,\nCustomer",
+  "attachments": [
+    "Attachment_9799.txt",
+    "Attachment_9761.txt",
+    "Attachment_6508.xlsx",
+    "Update_EML0060.txt"
+  ],
+  "received_at": "2025-03-06T03:00:33.891804",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdf8f"
+  },
+  "email_id": "EML0061",
+  "sender": "Mary Williams",
+  "sender_email": "hblake@example.com",
+  "is_update_case": false,
+  "subject": "Loan Details Request Reminder (Set 19)",
+  "body": "Dear Team,\n\nThis is a reminder that I have not yet received the loan details for Set 19. Kindly provide an update at your earliest convenience.\n\nRegards,\nCustomer",
+  "attachments": [
+    "Attachment_1420.xlsx"
+  ],
+  "received_at": "2025-03-19T13:38:33.891824",
+  "status": "unprocessed",
+  "is_duplicate": true
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdf90"
+  },
+  "email_id": "EML0062",
+  "sender": "John Vega",
+  "sender_email": "simssteven@example.com",
+  "is_update_case": true,
+  "subject": "Loan Inquiry - Update Request (Set 16)",
+  "body": "Hello,\n\nI am writing to request an update on my loan details for Set 16. My account 869610 needs refreshing with the latest information.\n\nSincerely,\nCustomer",
+  "attachments": [
+    "Attachment_5804.zip",
+    "Update_EML0062.txt"
+  ],
+  "received_at": "2025-03-02T13:43:33.896757",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdf91"
+  },
+  "email_id": "EML0063",
+  "sender": "Alexandra Mcpherson",
+  "sender_email": "bookermarvin@example.org",
+  "is_update_case": false,
+  "subject": "Loan Details Request - Follow-Up Needed (Set 17)",
+  "body": "Hi,\n\nno update 10 emails Set 17. My account number is 792101. I look forward to your prompt response.\n\nSincerely,\nCustomer",
+  "attachments": [
+    "Attachment_2789.xlsx",
+    "Attachment_9559.pdf"
+  ],
+  "received_at": "2025-03-18T00:46:33.896771",
+  "status": "unprocessed",
+  "is_duplicate": true
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdf92"
+  },
+  "email_id": "EML0064",
+  "sender": "Cory Kelley",
+  "sender_email": "carolpatterson@example.org",
+  "is_update_case": false,
+  "subject": "Follow-Up on Loan Inquiry (Set 14)",
+  "body": "Dear Team,\n\nI wanted to follow up on my previous loan details request for Set 14. Please provide the necessary information regarding my inquiry.\n\nThank you,\nCustomer",
+  "attachments": [
+    "Attachment_9525.txt",
+    "Attachment_9179.xlsx",
+    "Attachment_1980.txt"
+  ],
+  "received_at": "2025-03-05T07:42:33.908342",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdf93"
+  },
+  "email_id": "EML0065",
+  "sender": "Natasha Vincent",
+  "sender_email": "bowersdennis@example.com",
+  "is_update_case": false,
+  "subject": "Reminder: Request for Loan Details (Set 16)",
+  "body": "Dear Support,\n\nI am writing to check on my request for the loan details for Set 16. My account number 243071 is pending review. Your prompt reply would be appreciated.\n\nRegards,\nCustomer",
+  "attachments": [
+    "Attachment_2447.jpg"
+  ],
+  "received_at": "2025-03-05T01:46:33.908359",
+  "status": "unprocessed",
+  "is_duplicate": true
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdf94"
+  },
+  "email_id": "EML0066",
+  "sender": "Patricia Gonzalez",
+  "sender_email": "millerandrew@example.net",
+  "is_update_case": false,
+  "subject": "Loan Details Enquiry Follow-Up (Set 12)",
+  "body": "Hi,\n\nI am writing to gently remind you about my pending request for loan details for Set 12. I look forward to hearing from you soon.\n\nThank you,\nCustomer",
+  "attachments": [
+    "Attachment_8630.txt"
+  ],
+  "received_at": "2025-03-16T19:30:33.909352",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdf95"
+  },
+  "email_id": "EML0067",
+  "sender": "Justin Thompson",
+  "sender_email": "mary71@example.org",
+  "is_update_case": false,
+  "subject": "Loan Inquiry Update Needed (Set 2)",
+  "body": "Dear Support,\n\nI would appreciate an update on my pending loan details request for Set 2. Please advise on the current status.\n\nSincerely,\nCustomer",
+  "attachments": [
+    "Attachment_4927.html"
+  ],
+  "received_at": "2025-02-26T06:28:33.910074",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdf96"
+  },
+  "email_id": "EML0068",
+  "sender": "Lisa Robertson",
+  "sender_email": "tiffanymitchell@example.com",
+  "is_update_case": false,
+  "subject": "Re: Loan Inquiry - Request for Loan Details (Set 16)",
+  "body": "Hello,\n\nI am writing to remind you that my original request for loan details for Set 16 is still pending. Your prompt attention to this matter would be appreciated.\n\nSincerely,\nCustomer",
+  "attachments": [
+    "Attachment_2528.msg"
+  ],
+  "received_at": "2025-03-06T19:56:33.911164",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdf97"
+  },
+  "email_id": "EML0069",
+  "sender": "Elizabeth Smith",
+  "sender_email": "hudsonkara@example.org",
+  "is_update_case": false,
+  "subject": "Loan Inquiry Update Needed (Set 8)",
+  "body": "Dear Support,\n\nI would appreciate an update on my pending loan details request for Set 8. Please advise on the current status.\n\nSincerely,\nCustomer",
+  "attachments": [
+    "Attachment_2438.docx",
+    "Attachment_8227.jpg",
+    "Attachment_3773.csv"
+  ],
+  "received_at": "2025-03-09T20:32:34.497801",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdf98"
+  },
+  "email_id": "EML0070",
+  "sender": "Kelsey Thompson",
+  "sender_email": "jane17@example.net",
+  "is_update_case": false,
+  "subject": "Reminder: Pending Loan Details Request (Set 9)",
+  "body": "Hi,\n\nI would like to remind you about my existing request for loan details for Set 9. Please update me on this matter when possible.\n\nThank you,\nCustomer",
+  "attachments": [
+    "Attachment_4985.html"
+  ],
+  "received_at": "2025-03-23T03:18:34.498866",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdf99"
+  },
+  "email_id": "EML0071",
+  "sender": "Mary Williams",
+  "sender_email": "hblake@example.com",
+  "is_update_case": false,
+  "subject": "Loan Details Request Reminder (Set 19)",
+  "body": "Dear Team,\n\nThis is a reminder that I have not yet received the loan details for Set 19. Kindly provide an update at your earliest convenience.\n\nRegards,\nCustomer",
+  "attachments": [
+    "Attachment_1420.xlsx"
+  ],
+  "received_at": "2025-03-19T04:44:34.498891",
+  "status": "unprocessed",
+  "is_duplicate": true
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdf9a"
+  },
+  "email_id": "EML0072",
+  "sender": "Samantha Hart",
+  "sender_email": "jamesrodriguez@example.net",
+  "is_update_case": false,
+  "subject": "Immediate Loan Inquiry: Request for Loan Details (Set 6)",
+  "body": "Hello,\n\nI need some details regarding my loan for Set 6. My account is 953301. Please provide the information as soon as possible.\n\nSincerely,\nCustomer",
+  "attachments": [
+    "Attachment_6056.docx"
+  ],
+  "received_at": "2025-03-08T20:05:34.521657",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdf9b"
+  },
+  "email_id": "EML0073",
+  "sender": "Kimberly Rowland",
+  "sender_email": "brycetyler@example.com",
+  "is_update_case": true,
+  "subject": "Request for Latest Loan Information Update (Set 10)",
+  "body": "Hello,\n\nI'd appreciate it if you could update my existing request for loan details for Set 10. I am specifically looking for details on my outstanding balance and next payment date for account 369369.\n\nRegards,\nCustomer",
+  "attachments": [
+    "Attachment_1972.docx",
+    "Attachment_2636.pdf",
+    "Update_EML0073.txt"
+  ],
+  "received_at": "2025-03-04T17:52:34.545606",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdf9c"
+  },
+  "email_id": "EML0074",
+  "sender": "Brandy Casey",
+  "sender_email": "ogarner@example.org",
+  "is_update_case": true,
+  "subject": "Loan Details Update Request (Set 6)",
+  "body": "Hi,\n\nI need an update on my previous loan details request for Set 6. Please provide current information regarding the outstanding balance and due date for account 230301.\n\nThank you,\nCustomer",
+  "attachments": [
+    "Attachment_1679.pdf",
+    "Attachment_8556.png",
+    "Attachment_2499.csv",
+    "Update_EML0074.txt"
+  ],
+  "received_at": "2025-03-19T03:50:35.083169",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdf9d"
+  },
+  "email_id": "EML0075",
+  "sender": "Dr. Joseph Olson",
+  "sender_email": "jonesangela@example.com",
+  "is_update_case": false,
+  "subject": "Pending Request: Loan Details (Set 20)",
+  "body": "Hi,\n\nI kindly remind you to send the loan details for Set 20. I am still waiting for a response regarding my earlier inquiry.\n\nThanks,\nCustomer",
+  "attachments": [
+    "Attachment_9975.png",
+    "Attachment_6995.zip",
+    "Attachment_8987.zip"
+  ],
+  "received_at": "2025-03-05T13:56:35.616493",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdf9e"
+  },
+  "email_id": "EML0076",
+  "sender": "Alejandra Young",
+  "sender_email": "harrisbrenda@example.org",
+  "is_update_case": true,
+  "subject": "Updated Loan Request Information (Set 16)",
+  "body": "Dear Team,\n\nI would like to update my previous request for loan details for Set 16 (Account: 900644). Please provide updated information on my current balance and next payment date.\n\nRegards,\nCustomer",
+  "attachments": [
+    "Attachment_2326.zip",
+    "Attachment_7227.html",
+    "Attachment_8259.png",
+    "Update_EML0076.txt"
+  ],
+  "received_at": "2025-03-15T08:30:36.163249",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdf9f"
+  },
+  "email_id": "EML0077",
+  "sender": "Susan Gray",
+  "sender_email": "mary86@example.com",
+  "is_update_case": false,
+  "subject": "Second Request: Loan Details Follow-Up (Set 4)",
+  "body": "Hi,\n\nshare details of  4 (Account: 936178). I would appreciate a prompt update.\n\nRegards,\nCustomer",
+  "attachments": [
+    "Attachment_1515.zip",
+    "Attachment_6557.xlsx",
+    "Attachment_6606.png"
+  ],
+  "received_at": "2025-03-04T09:22:36.163269",
+  "status": "unprocessed",
+  "is_duplicate": true
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdfa0"
+  },
+  "email_id": "EML0078",
+  "sender": "Robert Thomas",
+  "sender_email": "bradleygraves@example.com",
+  "is_update_case": false,
+  "subject": "Loan Inquiry - Request for Loan Details (Set 15)",
+  "body": "Hello,\n\nI would like to request details on my loan for Set 15. My account number is 876490. Please send the information at your earliest convenience.\n\nThank you,\nCustomer",
+  "attachments": [
+    "Attachment_4242.jpg",
+    "Attachment_6975.png"
+  ],
+  "received_at": "2025-03-18T11:08:37.232054",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdfa1"
+  },
+  "email_id": "EML0079",
+  "sender": "Jessica Smith",
+  "sender_email": "drakeedgar@example.net",
+  "is_update_case": false,
+  "subject": "Request for Loan Details (Set 18) - Loan Inquiry",
+  "body": "Dear Team,\n\nI am in need of my loan details for Set 18. My account number 581549 is with you. Please expedite the information.\n\nSincerely,\nCustomer",
+  "attachments": [
+    "Attachment_3230.xlsx",
+    "Attachment_8349.txt"
+  ],
+  "received_at": "2025-02-27T03:18:37.244913",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdfa2"
+  },
+  "email_id": "EML0080",
+  "sender": "Natasha Vincent",
+  "sender_email": "bowersdennis@example.com",
+  "is_update_case": false,
+  "subject": "Reminder: Request for Loan Details (Set 12)",
+  "body": "Dear Support,\n\nI am writing to check on my request for the loan details for Set 12. My account number 475508 is pending review. Your prompt reply would be appreciated.\n\nRegards,\nCustomer",
+  "attachments": [
+    "Attachment_2914.csv",
+    "Attachment_4951.txt",
+    "Attachment_9844.docx"
+  ],
+  "received_at": "2025-03-13T19:52:37.268506",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdfa3"
+  },
+  "email_id": "EML0081",
+  "sender": "Audrey Lowe",
+  "sender_email": "lgreer@example.org",
+  "is_update_case": false,
+  "subject": "Reminder: Loan Inquiry Still Pending (Set 3)",
+  "body": "Hello,\n\nI am writing this follow-up to check on the status of my loan details request for Set 3. Please address the pending request as soon as possible.\n\nThank you,\nCustomer",
+  "attachments": [
+    "Attachment_1784.html",
+    "Attachment_4282.html"
+  ],
+  "received_at": "2025-02-23T07:50:37.271030",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdfa4"
+  },
+  "email_id": "EML0082",
+  "sender": "Natasha Vincent",
+  "sender_email": "bowersdennis@example.com",
+  "is_update_case": false,
+  "subject": "Request for Loan Information - Loan Inquiry (Set 4)",
+  "body": "Hi,\n\nI am writing to request the latest details on my loan for Set 4. My account number 357393 is registered with you. Looking forward to your response.\n\nBest,\nCustomer",
+  "attachments": [
+    "Attachment_7932.pdf",
+    "Attachment_8882.pdf",
+    "Attachment_8705.msg"
+  ],
+  "received_at": "2025-03-17T01:16:37.275298",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdfa5"
+  },
+  "email_id": "EML0083",
+  "sender": "Vanessa Irwin",
+  "sender_email": "kellyhernandez@example.com",
+  "is_update_case": false,
+  "subject": "Loan Details Inquiry - Urgent Request (Set 18)",
+  "body": "Dear Support,\n\nI request the loan details for Set 18 associated with account 109440. Please address this request at your earliest convenience.\n\nThank you,\nCustomer",
+  "attachments": [
+    "Attachment_3930.csv",
+    "Attachment_9929.jpg",
+    "Attachment_6802.msg"
+  ],
+  "received_at": "2025-02-26T20:45:37.814573",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdfa6"
+  },
+  "email_id": "EML0084",
+  "sender": "Justin Thompson",
+  "sender_email": "mary71@example.org",
+  "is_update_case": false,
+  "subject": "Request for Loan Details (Set 17) - Loan Inquiry",
+  "body": "Dear Team,\n\nI am in need of my loan details for Set 17. My account number 492906 is with you. Please expedite the information.\n\nSincerely,\nCustomer",
+  "attachments": [
+    "Attachment_1797.xlsx",
+    "Attachment_9356.zip",
+    "Attachment_3043.txt"
+  ],
+  "received_at": "2025-03-04T09:42:37.828341",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdfa7"
+  },
+  "email_id": "EML0085",
+  "sender": "Justin Thompson",
+  "sender_email": "mary71@example.org",
+  "is_update_case": false,
+  "subject": "Loan Inquiry Update Needed (Set 2)",
+  "body": "Dear Support,\n\nI would appreciate an update on my pending loan details request for Set 2. Please advise on the current status.\n\nSincerely,\nCustomer",
+  "attachments": [
+    "Attachment_4927.html"
+  ],
+  "received_at": "2025-03-23T10:14:37.828357",
+  "status": "unprocessed",
+  "is_duplicate": true
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdfa8"
+  },
+  "email_id": "EML0086",
+  "sender": "Miranda Pham",
+  "sender_email": "jonesmonica@example.net",
+  "is_update_case": true,
+  "subject": "Loan Inquiry Update - Request for Loan Details (Set 20)",
+  "body": "Hello,\n\nI'd like to update my request for loan details for Set 20. I now require the latest information on my outstanding balance and the next payment date.\n\nThank you,\nCustomer",
+  "attachments": [
+    "Attachment_5289.docx",
+    "Attachment_5699.pdf",
+    "Update_EML0086.txt"
+  ],
+  "received_at": "2025-03-15T10:39:37.851984",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdfa9"
+  },
+  "email_id": "EML0087",
+  "sender": "Aaron Moore",
+  "sender_email": "gomezkelsey@example.org",
+  "is_update_case": true,
+  "subject": "Loan Request Update - Seeking Latest Details (Set 15)",
+  "body": "Hi,\n\nKindly update my request for loan details for Set 15. I need the latest information regarding my balance and upcoming payment for account 468335.\n\nThank you,\nCustomer",
+  "attachments": [
+    "Attachment_9189.html",
+    "Update_EML0087.txt"
+  ],
+  "received_at": "2025-03-09T13:25:37.854109",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdfaa"
+  },
+  "email_id": "EML0088",
+  "sender": "Cynthia Townsend",
+  "sender_email": "sarah82@example.net",
+  "is_update_case": true,
+  "subject": "Request for Loan Information Update (Set 18)",
+  "body": "Hi Team,\n\nCan you please provide an updated version of my loan details for Set 18? I am looking for revised information on account 292361, including balance and next payment date.\n\nThanks,\nCustomer",
+  "attachments": [
+    "Attachment_9069.csv",
+    "Attachment_5288.html",
+    "Update_EML0088.txt"
+  ],
+  "received_at": "2025-03-22T07:55:37.856782",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdfab"
+  },
+  "email_id": "EML0089",
+  "sender": "Michelle Stephens",
+  "sender_email": "marissa30@example.com",
+  "is_update_case": false,
+  "subject": "Loan Details Request Reminder (Set 9)",
+  "body": "Dear Team,\n\nThis is a reminder that I have not yet received the loan details for Set 9. Kindly provide an update at your earliest convenience.\n\nRegards,\nCustomer",
+  "attachments": [
+    "Attachment_8815.csv"
+  ],
+  "received_at": "2025-03-24T23:06:37.857718",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdfac"
+  },
+  "email_id": "EML0090",
+  "sender": "Tim Black",
+  "sender_email": "fjohnston@example.com",
+  "is_update_case": false,
+  "subject": "Urgent Loan Details Request (Set 11)",
+  "body": "Hello,\n\nThis is to request details about my loan for Set 11. My account number is 753167. Kindly send the details swiftly.\n\nThank you,\nCustomer",
+  "attachments": [
+    "Attachment_4274.csv",
+    "Attachment_4821.csv"
+  ],
+  "received_at": "2025-03-18T04:04:37.859394",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdfad"
+  },
+  "email_id": "EML0091",
+  "sender": "Andrew Cox",
+  "sender_email": "christensenbrian@example.org",
+  "is_update_case": false,
+  "subject": "Reminder: Loan Inquiry Still Pending (Set 20)",
+  "body": "Hello,\n\nI am writing this follow-up to check on the status of my loan details request for Set 20. Please address the pending request as soon as possible.\n\nThank you,\nCustomer",
+  "attachments": [
+    "Attachment_4914.html"
+  ],
+  "received_at": "2025-03-18T09:08:37.860330",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdfae"
+  },
+  "email_id": "EML0092",
+  "sender": "Luis Buck",
+  "sender_email": "igordon@example.com",
+  "is_update_case": false,
+  "subject": "Loan Details Inquiry - Urgent Request (Set 4)",
+  "body": "Dear Support,\n\nI request the loan details for Set 4 associated with account 646137. Please address this request at your earliest convenience.\n\nThank you,\nCustomer",
+  "attachments": [
+    "Attachment_2877.msg",
+    "Attachment_5864.html",
+    "Attachment_6286.xlsx"
+  ],
+  "received_at": "2025-03-21T10:03:37.880399",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdfaf"
+  },
+  "email_id": "EML0093",
+  "sender": "Michelle Hubbard",
+  "sender_email": "brooksandrew@example.com",
+  "is_update_case": false,
+  "subject": "Request Reminder: Loan Details (Set 1)",
+  "body": "Hello,\n\nJust a reminder that I am still awaiting the details of my loan for Set 1. Please let me know the status as soon as possible.\n\nRegards,\nCustomer",
+  "attachments": [
+    "Attachment_3571.html",
+    "Attachment_3230.docx",
+    "Attachment_3003.docx"
+  ],
+  "received_at": "2025-03-09T23:21:37.924875",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdfb0"
+  },
+  "email_id": "EML0094",
+  "sender": "Jessica Peterson",
+  "sender_email": "erinpotts@example.net",
+  "is_update_case": true,
+  "subject": "Request for Loan Information Update (Set 12)",
+  "body": "Hi Team,\n\nCan you please provide an updated version of my loan details for Set 12? I am looking for revised information on account 481251, including balance and next payment date.\n\nThanks,\nCustomer",
+  "attachments": [
+    "Attachment_4435.txt",
+    "Attachment_1102.docx",
+    "Attachment_3065.html",
+    "Update_EML0094.txt"
+  ],
+  "received_at": "2025-03-23T23:57:37.950091",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdfb1"
+  },
+  "email_id": "EML0095",
+  "sender": "Ryan Becker",
+  "sender_email": "jonescourtney@example.org",
+  "is_update_case": false,
+  "subject": "Detailed Loan Inquiry (Set 4) - Request",
+  "body": "Hi,\n\nI am seeking detailed information on my loan for Set 4 linked to account 719556. I would appreciate a timely response.\n\nRegards,\nCustomer",
+  "attachments": [
+    "Attachment_6467.pdf"
+  ],
+  "received_at": "2025-03-17T19:21:37.952092",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdfb2"
+  },
+  "email_id": "EML0096",
+  "sender": "Brandy Casey",
+  "sender_email": "ogarner@example.org",
+  "is_update_case": false,
+  "subject": "Loan Inquiry - Request for Loan Details (Set 14)",
+  "body": "Hello,\n\nI would like to request details on my loan for Set 14. My account number is 923826. Please send the information at your earliest convenience.\n\nThank you,\nCustomer",
+  "attachments": [
+    "Attachment_2921.csv",
+    "Attachment_8368.zip"
+  ],
+  "received_at": "2025-03-10T23:23:37.955956",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdfb3"
+  },
+  "email_id": "EML0097",
+  "sender": "Patricia Murphy",
+  "sender_email": "ruth18@example.com",
+  "is_update_case": true,
+  "subject": "Request for Latest Loan Information Update (Set 14)",
+  "body": "Hello,\n\nI'd appreciate it if you could update my existing request for loan details for Set 14. I am specifically looking for details on my outstanding balance and next payment date for account 618947.\n\nRegards,\nCustomer",
+  "attachments": [
+    "Attachment_8645.png",
+    "Attachment_5004.xlsx",
+    "Update_EML0097.txt"
+  ],
+  "received_at": "2025-02-28T01:30:38.502039",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdfb4"
+  },
+  "email_id": "EML0098",
+  "sender": "Stephanie Ellis",
+  "sender_email": "tking@example.com",
+  "is_update_case": true,
+  "subject": "Loan Details Update Request (Set 8)",
+  "body": "Hi,\n\nI need an update on my previous loan details request for Set 8. Please provide current information regarding the outstanding balance and due date for account 122073.\n\nThank you,\nCustomer",
+  "attachments": [
+    "Attachment_1778.pdf",
+    "Update_EML0098.txt"
+  ],
+  "received_at": "2025-03-25T05:42:38.505359",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdfb5"
+  },
+  "email_id": "EML0099",
+  "sender": "Anita Terry",
+  "sender_email": "kimberly22@example.net",
+  "is_update_case": false,
+  "subject": "Request for Loan Information - Loan Inquiry (Set 1)",
+  "body": "Hi,\n\nI am writing to request the latest details on my loan for Set 1. My account number 412520 is registered with you. Looking forward to your response.\n\nBest,\nCustomer",
+  "attachments": [
+    "Attachment_1115.xlsx",
+    "Attachment_6433.msg",
+    "Attachment_3013.html"
+  ],
+  "received_at": "2025-03-15T23:18:38.516282",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdfb6"
+  },
+  "email_id": "EML0100",
+  "sender": "Susan Pham",
+  "sender_email": "doylejasmine@example.com",
+  "is_update_case": false,
+  "subject": "Urgent Loan Details Request (Set 16)",
+  "body": "Hello,\n\nThis is to request details about my loan for Set 16. My account number is 559640. Kindly send the details swiftly.\n\nThank you,\nCustomer",
+  "attachments": [
+    "Attachment_2066.msg"
+  ],
+  "received_at": "2025-03-01T15:17:38.517871",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdfb7"
+  },
+  "email_id": "EML0101",
+  "sender": "Amanda Lawson",
+  "sender_email": "michelleaguilar@example.org",
+  "is_update_case": true,
+  "subject": "Loan Details Update Request (Set 9)",
+  "body": "Hi,\n\nI need an update on my previous loan details request for Set 9. Please provide current information regarding the outstanding balance and due date for account 540358.\n\nThank you,\nCustomer",
+  "attachments": [
+    "Attachment_8873.zip",
+    "Update_EML0101.txt"
+  ],
+  "received_at": "2025-03-22T22:53:38.522362",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdfb8"
+  },
+  "email_id": "EML0102",
+  "sender": "Travis Phelps",
+  "sender_email": "kelsey82@example.net",
+  "is_update_case": true,
+  "subject": "Request for Loan Information Update (Set 2)",
+  "body": "Hi Team,\n\nCan you please provide an updated version of my loan details for Set 2? I am looking for revised information on account 674283, including balance and next payment date.\n\nThanks,\nCustomer",
+  "attachments": [
+    "Attachment_6813.zip",
+    "Attachment_9431.zip",
+    "Update_EML0102.txt"
+  ],
+  "received_at": "2025-03-17T06:29:38.530684",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdfb9"
+  },
+  "email_id": "EML0103",
+  "sender": "Barbara Hart",
+  "sender_email": "ycraig@example.com",
+  "is_update_case": false,
+  "subject": "Loan Inquiry Update Needed (Set 9)",
+  "body": "Dear Support,\n\nI would appreciate an update on my pending loan details request for Set 9. Please advise on the current status.\n\nSincerely,\nCustomer",
+  "attachments": [
+    "Attachment_6019.msg"
+  ],
+  "received_at": "2025-03-14T07:04:38.531930",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdfba"
+  },
+  "email_id": "EML0104",
+  "sender": "Phillip Gentry",
+  "sender_email": "murphyheather@example.net",
+  "is_update_case": false,
+  "subject": "Update Needed: Loan Details Inquiry Follow-Up (Set 14)",
+  "body": "Hello,\n\nI am following up on the loan inquiry regarding Set 14 (Account 150282). Please provide an update as soon as possible.\n\nThanks,\nCustomer",
+  "attachments": [
+    "Attachment_1099.csv",
+    "Attachment_5241.png"
+  ],
+  "received_at": "2025-03-07T06:12:39.084241",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdfbb"
+  },
+  "email_id": "EML0105",
+  "sender": "Justin Thompson",
+  "sender_email": "mary71@example.org",
+  "is_update_case": true,
+  "subject": "Loan Request Update - Seeking Latest Details (Set 16)",
+  "body": "Hi,\n\nKindly update my request for loan details for Set 16. I need the latest information regarding my balance and upcoming payment for account 921902.\n\nThank you,\nCustomer",
+  "attachments": [
+    "Attachment_8145.msg",
+    "Attachment_2510.msg",
+    "Update_EML0105.txt"
+  ],
+  "received_at": "2025-03-07T00:51:39.089113",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdfbc"
+  },
+  "email_id": "EML0106",
+  "sender": "Alyssa Scott",
+  "sender_email": "rkaiser@example.net",
+  "is_update_case": true,
+  "subject": "Updated Loan Request Information (Set 18)",
+  "body": "Dear Team,\n\nI would like to update my previous request for loan details for Set 18 (Account: 933238). Please provide updated information on my current balance and next payment date.\n\nRegards,\nCustomer",
+  "attachments": [
+    "Attachment_7988.txt",
+    "Update_EML0106.txt"
+  ],
+  "received_at": "2025-03-20T02:54:39.091569",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdfbd"
+  },
+  "email_id": "EML0107",
+  "sender": "Wanda Ray",
+  "sender_email": "sarahfranco@example.net",
+  "is_update_case": false,
+  "subject": "Immediate Loan Inquiry: Request for Loan Details (Set 6)",
+  "body": "Hello,\n\nI need some details regarding my loan for Set 6. My account is 542322. Please provide the information as soon as possible.\n\nSincerely,\nCustomer",
+  "attachments": [
+    "Attachment_5422.txt",
+    "Attachment_8734.zip",
+    "Attachment_8725.png"
+  ],
+  "received_at": "2025-02-27T13:37:39.595844",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdfbe"
+  },
+  "email_id": "EML0108",
+  "sender": "Ann Chandler",
+  "sender_email": "nmaddox@example.com",
+  "is_update_case": true,
+  "subject": "Updated Loan Request Information (Set 20)",
+  "body": "Dear Team,\n\nI would like to update my previous request for loan details for Set 20 (Account: 947157). Please provide updated information on my current balance and next payment date.\n\nRegards,\nCustomer",
+  "attachments": [
+    "Attachment_8024.csv",
+    "Update_EML0108.txt"
+  ],
+  "received_at": "2025-02-25T10:44:39.598191",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdfbf"
+  },
+  "email_id": "EML0109",
+  "sender": "Monique Evans",
+  "sender_email": "farnold@example.com",
+  "is_update_case": false,
+  "subject": "Immediate Loan Inquiry: Request for Loan Details (Set 14)",
+  "body": "Hello,\n\nI need some details regarding my loan for Set 14. My account is 463651. Please provide the information as soon as possible.\n\nSincerely,\nCustomer",
+  "attachments": [
+    "Attachment_2931.png",
+    "Attachment_6538.png",
+    "Attachment_4756.html"
+  ],
+  "received_at": "2025-02-23T05:35:40.687813",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdfc0"
+  },
+  "email_id": "EML0110",
+  "sender": "Martin Barr",
+  "sender_email": "meredithayala@example.com",
+  "is_update_case": false,
+  "subject": "Follow-Up on Loan Inquiry (Set 4)",
+  "body": "Dear Team,\n\nI wanted to follow up on my previous loan details request for Set 4. Please provide the necessary information regarding my inquiry.\n\nThank you,\nCustomer",
+  "attachments": [
+    "Attachment_1078.zip",
+    "Attachment_9903.png",
+    "Attachment_3513.zip"
+  ],
+  "received_at": "2025-03-03T14:57:41.440809",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdfc1"
+  },
+  "email_id": "EML0111",
+  "sender": "Matthew Hudson",
+  "sender_email": "brownjennifer@example.com",
+  "is_update_case": false,
+  "subject": "Reminder Follow-Up: Loan Information Request (Set 11)",
+  "body": "Hi Team,\n\nI am contacting you again regarding my earlier request for loan details for Set 11 (Acc: 359348). Kindly provide an update at your earliest convenience.\n\nThank you,\nCustomer",
+  "attachments": [
+    "Attachment_7394.xlsx"
+  ],
+  "received_at": "2025-03-05T21:18:41.452540",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdfc2"
+  },
+  "email_id": "EML0112",
+  "sender": "George Robinson",
+  "sender_email": "monroetanya@example.org",
+  "is_update_case": false,
+  "subject": "Pending Request: Loan Details (Set 3)",
+  "body": "Hi,\n\nI kindly remind you to send the loan details for Set 3. I am still waiting for a response regarding my earlier inquiry.\n\nThanks,\nCustomer",
+  "attachments": [
+    "Attachment_4368.html",
+    "Attachment_7808.jpg",
+    "Attachment_3572.xlsx"
+  ],
+  "received_at": "2025-03-02T16:43:42.012171",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdfc3"
+  },
+  "email_id": "EML0113",
+  "sender": "Katherine Hansen",
+  "sender_email": "erinortiz@example.org",
+  "is_update_case": false,
+  "subject": "Follow-Up: Loan Inquiry (Set 3) - Request for Details",
+  "body": "Hi Team,\n\nThis is a gentle reminder for the loan details requested for Set 3. My account number is 691277. Please update me soon.\n\nBest,\nCustomer",
+  "attachments": [
+    "Attachment_3070.docx",
+    "Attachment_6355.msg",
+    "Attachment_9680.png"
+  ],
+  "received_at": "2025-03-19T03:00:42.539204",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdfc4"
+  },
+  "email_id": "EML0114",
+  "sender": "Kristen Doyle",
+  "sender_email": "tjames@example.net",
+  "is_update_case": true,
+  "subject": "Loan Inquiry - Update Request (Set 10)",
+  "body": "Hello,\n\nI am writing to request an update on my loan details for Set 10. My account 193582 needs refreshing with the latest information.\n\nSincerely,\nCustomer",
+  "attachments": [
+    "Attachment_3728.msg",
+    "Attachment_7172.csv",
+    "Update_EML0114.txt"
+  ],
+  "received_at": "2025-03-12T12:08:42.542186",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdfc5"
+  },
+  "email_id": "EML0115",
+  "sender": "Rebecca Martinez",
+  "sender_email": "kennethwilliams@example.net",
+  "is_update_case": true,
+  "subject": "Update Needed: Revised Loan Details Request (Set 20)",
+  "body": "Dear Support,\n\nPlease update the loan information for Set 20 associated with 683327. I need the most current details on my outstanding balance and payment schedule.\n\nThank you,\nCustomer",
+  "attachments": [
+    "Attachment_1286.pdf",
+    "Attachment_7836.docx",
+    "Update_EML0115.txt"
+  ],
+  "received_at": "2025-02-25T18:42:42.564590",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdfc6"
+  },
+  "email_id": "EML0116",
+  "sender": "Jared Mcdonald",
+  "sender_email": "george66@example.net",
+  "is_update_case": false,
+  "subject": "Loan Details Inquiry - Urgent Request (Set 13)",
+  "body": "Dear Support,\n\nI request the loan details for Set 13 associated with account 611033. Please address this request at your earliest convenience.\n\nThank you,\nCustomer",
+  "attachments": [
+    "Attachment_4322.xlsx"
+  ],
+  "received_at": "2025-03-21T07:39:42.574052",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdfc7"
+  },
+  "email_id": "EML0117",
+  "sender": "Nicholas Wheeler",
+  "sender_email": "jweaver@example.com",
+  "is_update_case": false,
+  "subject": "Urgent Loan Details Request (Set 12)",
+  "body": "Hello,\n\nThis is to request details about my loan for Set 12. My account number is 264080. Kindly send the details swiftly.\n\nThank you,\nCustomer",
+  "attachments": [
+    "Attachment_4716.csv",
+    "Attachment_8522.txt"
+  ],
+  "received_at": "2025-03-09T22:57:42.576005",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdfc8"
+  },
+  "email_id": "EML0118",
+  "sender": "Sara Sims",
+  "sender_email": "charles94@example.net",
+  "is_update_case": false,
+  "subject": "Loan Inquiry: Detailed Request for Loan Information (Set 20)",
+  "body": "Hello,\n\nPlease send me the detailed information regarding my loan for Set 20. My account number is 283426. I eagerly await your response.\n\nBest regards,\nCustomer",
+  "attachments": [
+    "Attachment_1636.png"
+  ],
+  "received_at": "2025-03-21T13:33:43.135594",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdfc9"
+  },
+  "email_id": "EML0119",
+  "sender": "Jeffery Weber",
+  "sender_email": "ryan31@example.com",
+  "is_update_case": false,
+  "subject": "Request for Loan Information - Loan Inquiry (Set 18)",
+  "body": "Hi,\n\nI am writing to request the latest details on my loan for Set 18. My account number 947523 is registered with you. Looking forward to your response.\n\nBest,\nCustomer",
+  "attachments": [
+    "Attachment_2575.csv"
+  ],
+  "received_at": "2025-03-21T18:23:43.137215",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdfca"
+  },
+  "email_id": "EML0120",
+  "sender": "Jill Cochran",
+  "sender_email": "dstevens@example.com",
+  "is_update_case": false,
+  "subject": "Loan Inquiry Update Needed (Set 15)",
+  "body": "Dear Support,\n\nI would appreciate an update on my pending loan details request for Set 15. Please advise on the current status.\n\nSincerely,\nCustomer",
+  "attachments": [
+    "Attachment_8668.txt",
+    "Attachment_7825.html",
+    "Attachment_4356.html"
+  ],
+  "received_at": "2025-03-06T00:30:43.140004",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdfcb"
+  },
+  "email_id": "EML0121",
+  "sender": "Joel Brooks",
+  "sender_email": "zlin@example.org",
+  "is_update_case": true,
+  "subject": "Loan Inquiry Update - Request for Loan Details (Set 12)",
+  "body": "Hello,\n\nI'd like to update my request for loan details for Set 12. I now require the latest information on my outstanding balance and the next payment date.\n\nThank you,\nCustomer",
+  "attachments": [
+    "Attachment_5709.pdf",
+    "Attachment_4795.jpg",
+    "Update_EML0121.txt"
+  ],
+  "received_at": "2025-03-11T15:44:43.687638",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdfcc"
+  },
+  "email_id": "EML0122",
+  "sender": "Allison Clark",
+  "sender_email": "mfranklin@example.com",
+  "is_update_case": false,
+  "subject": "Loan Inquiry - Request for Loan Details (Set 15)",
+  "body": "Hello,\n\nI would like to request details on my loan for Set 15. My account number is 134811. Please send the information at your earliest convenience.\n\nThank you,\nCustomer",
+  "attachments": [
+    "Attachment_4643.jpg"
+  ],
+  "received_at": "2025-03-02T01:24:44.290047",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdfcd"
+  },
+  "email_id": "EML0123",
+  "sender": "Richard Dougherty",
+  "sender_email": "garyjones@example.net",
+  "is_update_case": false,
+  "subject": "Loan Inquiry - Request for Loan Details (Set 8)",
+  "body": "Hello,\n\nI would like to request details on my loan for Set 8. My account number is 907953. Please send the information at your earliest convenience.\n\nThank you,\nCustomer",
+  "attachments": [
+    "Attachment_8573.msg"
+  ],
+  "received_at": "2025-03-25T12:34:44.291439",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdfce"
+  },
+  "email_id": "EML0124",
+  "sender": "Samantha Hart",
+  "sender_email": "jamesrodriguez@example.net",
+  "is_update_case": false,
+  "subject": "Follow-Up on Loan Inquiry (Set 4)",
+  "body": "Dear Team,\n\nI wanted to follow up on my previous loan details request for Set 4. Please provide the necessary information regarding my inquiry.\n\nThank you,\nCustomer",
+  "attachments": [
+    "Attachment_3067.zip",
+    "Attachment_1602.zip"
+  ],
+  "received_at": "2025-03-08T16:00:44.298488",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdfcf"
+  },
+  "email_id": "EML0125",
+  "sender": "Rebecca Hayes",
+  "sender_email": "gonzalezlarry@example.net",
+  "is_update_case": false,
+  "subject": "Re: Loan Inquiry - Request for Loan Details (Set 18)",
+  "body": "Hello,\n\nI am writing to remind you that my original request for loan details for Set 18 is still pending. Your prompt attention to this matter would be appreciated.\n\nSincerely,\nCustomer",
+  "attachments": [
+    "Attachment_1088.jpg"
+  ],
+  "received_at": "2025-03-18T08:30:44.829781",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdfd0"
+  },
+  "email_id": "EML0126",
+  "sender": "Amy Stevenson",
+  "sender_email": "williammontoya@example.com",
+  "is_update_case": false,
+  "subject": "Reminder: Request for Loan Details (Set 8)",
+  "body": "Dear Support,\n\nI am writing to check on my request for the loan details for Set 8. My account number 506426 is pending review. Your prompt reply would be appreciated.\n\nRegards,\nCustomer",
+  "attachments": [
+    "Attachment_9870.txt",
+    "Attachment_3782.txt",
+    "Attachment_6371.png"
+  ],
+  "received_at": "2025-03-08T19:33:45.367200",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdfd1"
+  },
+  "email_id": "EML0127",
+  "sender": "Margaret Hodges",
+  "sender_email": "zbell@example.com",
+  "is_update_case": false,
+  "subject": "Follow-Up on Loan Inquiry (Set 4)",
+  "body": "Dear Team,\n\nI wanted to follow up on my previous loan details request for Set 4. Please provide the necessary information regarding my inquiry.\n\nThank you,\nCustomer",
+  "attachments": [
+    "Attachment_7760.csv"
+  ],
+  "received_at": "2025-03-20T11:00:45.370381",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdfd2"
+  },
+  "email_id": "EML0128",
+  "sender": "Darrell Bernard",
+  "sender_email": "churcheric@example.org",
+  "is_update_case": false,
+  "subject": "Loan Details Inquiry - Urgent Request (Set 13)",
+  "body": "Dear Support,\n\nI request the loan details for Set 13 associated with account 376552. Please address this request at your earliest convenience.\n\nThank you,\nCustomer",
+  "attachments": [
+    "Attachment_1289.html",
+    "Attachment_3729.xlsx"
+  ],
+  "received_at": "2025-03-01T23:10:45.380965",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdfd3"
+  },
+  "email_id": "EML0129",
+  "sender": "Robert Keith",
+  "sender_email": "lauramcdonald@example.com",
+  "is_update_case": true,
+  "subject": "Update: Request for Revised Loan Details (Set 11)",
+  "body": "Dear Team,\n\nI'm writing to request an update for my loan details for Set 11. My account 199547 requires the latest balance and upcoming payment information.\n\nBest,\nCustomer",
+  "attachments": [
+    "Attachment_1253.jpg",
+    "Attachment_3937.docx",
+    "Update_EML0129.txt"
+  ],
+  "received_at": "2025-03-25T17:52:45.906351",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdfd4"
+  },
+  "email_id": "EML0130",
+  "sender": "Natasha Vincent",
+  "sender_email": "bowersdennis@example.com",
+  "is_update_case": false,
+  "subject": "Follow-Up: Still Awaiting Loan Details (Set 6)",
+  "body": "Hello,\n\nI am reaching out again as my previous request for loan details for Set 6 remains unanswered. Please provide an update soon.\n\nThank you,\nCustomer",
+  "attachments": [
+    "Attachment_8488.jpg"
+  ],
+  "received_at": "2025-03-23T19:16:46.436025",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdfd5"
+  },
+  "email_id": "EML0131",
+  "sender": "Victoria Reeves",
+  "sender_email": "colleendaugherty@example.com",
+  "is_update_case": false,
+  "subject": "Loan Inquiry: Request for Loan Details (Set 3)",
+  "body": "Dear Team,\n\nCould you kindly provide the details of my loan for Set 3? My account number is 753971. I appreciate a prompt response.\n\nRegards,\nCustomer",
+  "attachments": [
+    "Attachment_8448.docx",
+    "Attachment_1792.jpg",
+    "Attachment_8705.docx"
+  ],
+  "received_at": "2025-02-23T11:26:47.011670",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdfd6"
+  },
+  "email_id": "EML0132",
+  "sender": "Lisa Long",
+  "sender_email": "thompsonstephanie@example.org",
+  "is_update_case": false,
+  "subject": "Second Request: Loan Details Follow-Up (Set 5)",
+  "body": "Hi,\n\nshare details of  5 (Account: 359509). I would appreciate a prompt update.\n\nRegards,\nCustomer",
+  "attachments": [
+    "Attachment_5191.png",
+    "Attachment_5424.jpg",
+    "Attachment_9031.msg"
+  ],
+  "received_at": "2025-03-07T01:26:48.075686",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdfd7"
+  },
+  "email_id": "EML0133",
+  "sender": "David Bass",
+  "sender_email": "diazalyssa@example.org",
+  "is_update_case": true,
+  "subject": "Loan Inquiry - Update Request (Set 8)",
+  "body": "Hello,\n\nI am writing to request an update on my loan details for Set 8. My account 154760 needs refreshing with the latest information.\n\nSincerely,\nCustomer",
+  "attachments": [
+    "Attachment_9950.png",
+    "Attachment_7395.html",
+    "Update_EML0051.txt"
+  ],
+  "received_at": "2025-03-21T04:41:48.075705",
+  "status": "unprocessed",
+  "is_duplicate": true
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdfd8"
+  },
+  "email_id": "EML0134",
+  "sender": "Brandy Casey",
+  "sender_email": "ogarner@example.org",
+  "is_update_case": true,
+  "subject": "Revised Loan Details Request Update (Set 6)",
+  "body": "Hello,\n\nI wish to update my loan details inquiry for Set 6. Please provide current data on my outstanding balance and next payment date for account 388445.\n\nThank you,\nCustomer",
+  "attachments": [
+    "Attachment_7972.zip",
+    "Update_EML0134.txt"
+  ],
+  "received_at": "2025-03-20T13:49:48.081232",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdfd9"
+  },
+  "email_id": "EML0135",
+  "sender": "Joseph Odonnell",
+  "sender_email": "walter84@example.org",
+  "is_update_case": false,
+  "subject": "Loan Details Request Reminder (Set 20)",
+  "body": "Dear Team,\n\nThis is a reminder that I have not yet received the loan details for Set 20. Kindly provide an update at your earliest convenience.\n\nRegards,\nCustomer",
+  "attachments": [
+    "Attachment_8590.png",
+    "Attachment_7595.docx"
+  ],
+  "received_at": "2025-03-11T07:13:48.620442",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdfda"
+  },
+  "email_id": "EML0136",
+  "sender": "Marcus Sherman",
+  "sender_email": "phillipswendy@example.org",
+  "is_update_case": false,
+  "subject": "Follow-Up on Loan Inquiry (Set 18)",
+  "body": "Dear Team,\n\nI wanted to follow up on my previous loan details request for Set 18. Please provide the necessary information regarding my inquiry.\n\nThank you,\nCustomer",
+  "attachments": [
+    "Attachment_5041.zip",
+    "Attachment_1596.docx"
+  ],
+  "received_at": "2025-02-24T09:01:48.646958",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdfdb"
+  },
+  "email_id": "EML0137",
+  "sender": "Melissa Brock",
+  "sender_email": "jmullins@example.com",
+  "is_update_case": false,
+  "subject": "Loan Details Request - Follow-Up Needed (Set 11)",
+  "body": "Hi,\n\nFollowing my earlier request, I still require the details of my loan for Set 11. My account number is 436570. I look forward to your prompt response.\n\nSincerely,\nCustomer",
+  "attachments": [
+    "Attachment_4683.msg"
+  ],
+  "received_at": "2025-03-04T13:44:48.648485",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdfdc"
+  },
+  "email_id": "EML0138",
+  "sender": "Amy Martin",
+  "sender_email": "ufrank@example.net",
+  "is_update_case": true,
+  "subject": "Request for Latest Loan Information Update (Set 2)",
+  "body": "Hello,\n\nI'd appreciate it if you could update my existing request for loan details for Set 2. I am specifically looking for details on my outstanding balance and next payment date for account 491398.\n\nRegards,\nCustomer",
+  "attachments": [
+    "Attachment_3411.pdf",
+    "Update_EML0138.txt"
+  ],
+  "received_at": "2025-03-19T17:23:48.652338",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdfdd"
+  },
+  "email_id": "EML0139",
+  "sender": "Justin Thompson",
+  "sender_email": "mary71@example.org",
+  "is_update_case": true,
+  "subject": "Loan Details Update Request (Set 6)",
+  "body": "Hi,\n\nI need an update on my previous loan details request for Set 6. Please provide current information regarding the outstanding balance and due date for account 305482.\n\nThank you,\nCustomer",
+  "attachments": [
+    "Attachment_4784.pdf",
+    "Update_EML0139.txt"
+  ],
+  "received_at": "2025-03-02T00:27:48.655624",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdfde"
+  },
+  "email_id": "EML0140",
+  "sender": "Connie Parsons",
+  "sender_email": "irichard@example.net",
+  "is_update_case": true,
+  "subject": "Request for Latest Loan Information Update (Set 6)",
+  "body": "Hello,\n\nI'd appreciate it if you could update my existing request for loan details for Set 6. I am specifically looking for details on my outstanding balance and next payment date for account 120237.\n\nRegards,\nCustomer",
+  "attachments": [
+    "Attachment_8344.html",
+    "Attachment_8397.csv",
+    "Attachment_5494.txt",
+    "Update_EML0140.txt"
+  ],
+  "received_at": "2025-02-28T08:04:48.659695",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdfdf"
+  },
+  "email_id": "EML0141",
+  "sender": "Anthony Wolfe",
+  "sender_email": "petersonlawrence@example.org",
+  "is_update_case": false,
+  "subject": "Request for Loan Information - Loan Inquiry (Set 11)",
+  "body": "Hi,\n\nI am writing to request the latest details on my loan for Set 11. My account number 793371 is registered with you. Looking forward to your response.\n\nBest,\nCustomer",
+  "attachments": [
+    "Attachment_9223.xlsx",
+    "Attachment_9195.csv",
+    "Attachment_9756.pdf"
+  ],
+  "received_at": "2025-02-25T23:58:48.686914",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdfe0"
+  },
+  "email_id": "EML0142",
+  "sender": "Tamara Kim",
+  "sender_email": "stevencampos@example.com",
+  "is_update_case": true,
+  "subject": "Updated Loan Request Information (Set 15)",
+  "body": "Dear Team,\n\nI would like to update my previous request for loan details for Set 15 (Account: 282208). Please provide updated information on my current balance and next payment date.\n\nRegards,\nCustomer",
+  "attachments": [
+    "Attachment_5741.docx",
+    "Attachment_7963.pdf",
+    "Attachment_8016.xlsx",
+    "Update_EML0142.txt"
+  ],
+  "received_at": "2025-03-12T07:43:48.721885",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdfe1"
+  },
+  "email_id": "EML0143",
+  "sender": "Ann Flores",
+  "sender_email": "julie94@example.net",
+  "is_update_case": false,
+  "subject": "Loan Details Inquiry - Urgent Request (Set 3)",
+  "body": "Dear Support,\n\nI request the loan details for Set 3 associated with account 288015. Please address this request at your earliest convenience.\n\nThank you,\nCustomer",
+  "attachments": [
+    "Attachment_2410.png"
+  ],
+  "received_at": "2025-03-01T08:13:49.231683",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdfe2"
+  },
+  "email_id": "EML0144",
+  "sender": "Jared Mcdonald",
+  "sender_email": "george66@example.net",
+  "is_update_case": false,
+  "subject": "Loan Details Inquiry - Urgent Request (Set 13)",
+  "body": "Dear Support,\n\nI request the loan details for Set 13 associated with account 611033. Please address this request at your earliest convenience.\n\nThank you,\nCustomer",
+  "attachments": [
+    "Attachment_4322.xlsx"
+  ],
+  "received_at": "2025-03-04T21:09:49.231705",
+  "status": "unprocessed",
+  "is_duplicate": true
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdfe3"
+  },
+  "email_id": "EML0145",
+  "sender": "Wayne Manning",
+  "sender_email": "merrittadam@example.net",
+  "is_update_case": false,
+  "subject": "Reminder: Loan Inquiry Still Pending (Set 12)",
+  "body": "Hello,\n\nI am writing this follow-up to check on the status of my loan details request for Set 12. Please address the pending request as soon as possible.\n\nThank you,\nCustomer",
+  "attachments": [
+    "Attachment_3998.xlsx",
+    "Attachment_7201.zip"
+  ],
+  "received_at": "2025-02-27T19:24:49.244540",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdfe4"
+  },
+  "email_id": "EML0146",
+  "sender": "Monica Taylor",
+  "sender_email": "brandon52@example.org",
+  "is_update_case": true,
+  "subject": "Loan Inquiry Update - Request for Loan Details (Set 11)",
+  "body": "Hello,\n\nI'd like to update my request for loan details for Set 11. I now require the latest information on my outstanding balance and the next payment date.\n\nThank you,\nCustomer",
+  "attachments": [
+    "Attachment_9003.xlsx",
+    "Attachment_2595.docx",
+    "Attachment_1117.csv",
+    "Update_EML0146.txt"
+  ],
+  "received_at": "2025-03-08T01:13:49.278994",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdfe5"
+  },
+  "email_id": "EML0147",
+  "sender": "Sharon Brown",
+  "sender_email": "herrerarobin@example.com",
+  "is_update_case": false,
+  "subject": "Reminder Follow-Up: Loan Information Request (Set 15)",
+  "body": "Hi Team,\n\nI am contacting you again regarding my earlier request for loan details for Set 15 (Acc: 545171). Kindly provide an update at your earliest convenience.\n\nThank you,\nCustomer",
+  "attachments": [
+    "Attachment_5365.csv"
+  ],
+  "received_at": "2025-03-06T15:20:49.280015",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdfe6"
+  },
+  "email_id": "EML0148",
+  "sender": "Andrew Burns",
+  "sender_email": "elizabeth40@example.org",
+  "is_update_case": false,
+  "subject": "Follow-Up: Still Awaiting Loan Details (Set 4)",
+  "body": "Hello,\n\nI am reaching out again as my previous request for loan details for Set 4 remains unanswered. Please provide an update soon.\n\nThank you,\nCustomer",
+  "attachments": [
+    "Attachment_2862.xlsx",
+    "Attachment_2181.csv",
+    "Attachment_5706.msg"
+  ],
+  "received_at": "2025-03-05T01:13:49.297748",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdfe7"
+  },
+  "email_id": "EML0149",
+  "sender": "Connie Parsons",
+  "sender_email": "irichard@example.net",
+  "is_update_case": true,
+  "subject": "Request for Latest Loan Information Update (Set 3)",
+  "body": "Hello,\n\nI'd appreciate it if you could update my existing request for loan details for Set 3. I am specifically looking for details on my outstanding balance and next payment date for account 296869.\n\nRegards,\nCustomer",
+  "attachments": [
+    "Attachment_9025.docx",
+    "Update_EML0149.txt"
+  ],
+  "received_at": "2025-02-28T19:39:49.321192",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdfe8"
+  },
+  "email_id": "EML0150",
+  "sender": "Derek Chung",
+  "sender_email": "zrobinson@example.org",
+  "is_update_case": true,
+  "subject": "Updated Loan Request Information (Set 5)",
+  "body": "Dear Team,\n\nI would like to update my previous request for loan details for Set 5 (Account: 722958). Please provide updated information on my current balance and next payment date.\n\nRegards,\nCustomer",
+  "attachments": [
+    "Attachment_4646.pdf",
+    "Update_EML0150.txt"
+  ],
+  "received_at": "2025-03-16T15:48:49.324343",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdfe9"
+  },
+  "email_id": "EML0151",
+  "sender": "Brian Lynch",
+  "sender_email": "sarah41@example.com",
+  "is_update_case": false,
+  "subject": "Request for Loan Details (Set 4) - Loan Inquiry",
+  "body": "Dear Team,\n\nI am in need of my loan details for Set 4. My account number 572917 is with you. Please expedite the information.\n\nSincerely,\nCustomer",
+  "attachments": [
+    "Attachment_6464.docx",
+    "Attachment_1714.docx",
+    "Attachment_3660.txt"
+  ],
+  "received_at": "2025-03-06T01:28:49.368128",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdfea"
+  },
+  "email_id": "EML0152",
+  "sender": "Brandy Casey",
+  "sender_email": "ogarner@example.org",
+  "is_update_case": false,
+  "subject": "Follow-Up Reminder: Loan Inquiry (Set 5)",
+  "body": "Dear Team,\n\nneed info on loan details for Set 5. Please update me soon. My account is 423182.\n\nThank you,\nCustomer",
+  "attachments": [
+    "Attachment_5914.csv"
+  ],
+  "received_at": "2025-02-26T15:55:49.369234",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdfeb"
+  },
+  "email_id": "EML0153",
+  "sender": "Jennifer Perez",
+  "sender_email": "joannahale@example.org",
+  "is_update_case": false,
+  "subject": "Loan Details Request - Follow-Up Needed (Set 2)",
+  "body": "Hi,\n\nFollowing my earlier request, I still require the details of my loan for Set 2. My account number is 638812. I look forward to your prompt response.\n\nSincerely,\nCustomer",
+  "attachments": [
+    "Attachment_6732.csv",
+    "Attachment_2048.pdf"
+  ],
+  "received_at": "2025-03-03T07:10:49.371931",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdfec"
+  },
+  "email_id": "EML0154",
+  "sender": "Melissa Scott",
+  "sender_email": "george21@example.org",
+  "is_update_case": false,
+  "subject": "Loan Request: Seeking Details (Set 5)",
+  "body": "Hi,\n\nCould you please provide the loan details for Set 5? My account number is 112672. I appreciate your prompt assistance.\n\nThank you,\nCustomer",
+  "attachments": [
+    "Attachment_5455.pdf",
+    "Attachment_5507.docx"
+  ],
+  "received_at": "2025-03-18T13:55:49.394994",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdfed"
+  },
+  "email_id": "EML0155",
+  "sender": "Anthony Dawson",
+  "sender_email": "jhayes@example.org",
+  "is_update_case": false,
+  "subject": "Pending Request: Loan Details (Set 17)",
+  "body": "Hi,\n\nI kindly remind you to send the loan details for Set 17. I am still waiting for a response regarding my earlier inquiry.\n\nThanks,\nCustomer",
+  "attachments": [
+    "Attachment_4318.msg",
+    "Attachment_1828.csv"
+  ],
+  "received_at": "2025-03-13T04:49:49.397523",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdfee"
+  },
+  "email_id": "EML0156",
+  "sender": "Megan Stone",
+  "sender_email": "renee26@example.com",
+  "is_update_case": true,
+  "subject": "Request for Loan Information Update (Set 2)",
+  "body": "Hi Team,\n\nCan you please provide an updated version of my loan details for Set 2? I am looking for revised information on account 883318, including balance and next payment date.\n\nThanks,\nCustomer",
+  "attachments": [
+    "Attachment_2012.xlsx",
+    "Attachment_2888.zip",
+    "Attachment_6446.zip",
+    "Update_EML0156.txt"
+  ],
+  "received_at": "2025-03-22T14:33:49.414666",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdfef"
+  },
+  "email_id": "EML0157",
+  "sender": "Shannon Nguyen",
+  "sender_email": "ktanner@example.net",
+  "is_update_case": false,
+  "subject": "Reminder Follow-Up: Loan Information Request (Set 14)",
+  "body": "Hi Team,\n\nI am contacting you again regarding my earlier request for loan details for Set 14 (Acc: 269447). Kindly provide an update at your earliest convenience.\n\nThank you,\nCustomer",
+  "attachments": [
+    "Attachment_7365.xlsx"
+  ],
+  "received_at": "2025-03-19T02:54:49.425427",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdff0"
+  },
+  "email_id": "EML0158",
+  "sender": "Kelly English",
+  "sender_email": "jasminporter@example.com",
+  "is_update_case": false,
+  "subject": "Pending Request: Loan Details (Set 11)",
+  "body": "Hi,\n\nI kindly remind you to send the loan details for Set 11. I am still waiting for a response regarding my earlier inquiry.\n\nThanks,\nCustomer",
+  "attachments": [
+    "Attachment_6432.html",
+    "Attachment_3787.png"
+  ],
+  "received_at": "2025-03-14T15:46:49.973513",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdff1"
+  },
+  "email_id": "EML0159",
+  "sender": "Michael Morgan",
+  "sender_email": "weaverkendra@example.org",
+  "is_update_case": false,
+  "subject": "Loan Details Enquiry Follow-Up (Set 17)",
+  "body": "Hi,\n\nI am writing to gently remind you about my pending request for loan details for Set 17. I look forward to hearing from you soon.\n\nThank you,\nCustomer",
+  "attachments": [
+    "Attachment_6095.docx",
+    "Attachment_3664.html"
+  ],
+  "received_at": "2025-03-11T07:08:49.996365",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdff2"
+  },
+  "email_id": "EML0160",
+  "sender": "Jeremy Martin",
+  "sender_email": "bryan80@example.com",
+  "is_update_case": true,
+  "subject": "Loan Inquiry - Update Request (Set 9)",
+  "body": "Hello,\n\nI am writing to request an update on my loan details for Set 9. My account 331070 needs refreshing with the latest information.\n\nSincerely,\nCustomer",
+  "attachments": [
+    "Attachment_2028.jpg",
+    "Attachment_4047.csv",
+    "Update_EML0010.txt"
+  ],
+  "received_at": "2025-02-28T16:12:49.996383",
+  "status": "unprocessed",
+  "is_duplicate": true
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdff3"
+  },
+  "email_id": "EML0161",
+  "sender": "William Hardy",
+  "sender_email": "awatson@example.com",
+  "is_update_case": false,
+  "subject": "Reminder Follow-Up: Loan Information Request (Set 2)",
+  "body": "Hi Team,\n\nI am contacting you again regarding my earlier request for loan details for Set 2 (Acc: 917631). Kindly provide an update at your earliest convenience.\n\nThank you,\nCustomer",
+  "attachments": [
+    "Attachment_9129.html"
+  ],
+  "received_at": "2025-03-07T18:18:49.997405",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdff4"
+  },
+  "email_id": "EML0162",
+  "sender": "Ivan Hawkins",
+  "sender_email": "cunninghamkenneth@example.net",
+  "is_update_case": false,
+  "subject": "Loan Details Request Reminder (Set 7)",
+  "body": "Dear Team,\n\nThis is a reminder that I have not yet received the loan details for Set 7. Kindly provide an update at your earliest convenience.\n\nRegards,\nCustomer",
+  "attachments": [
+    "Attachment_8333.pdf",
+    "Attachment_7641.xlsx",
+    "Attachment_1287.xlsx"
+  ],
+  "received_at": "2025-03-24T12:13:50.029818",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdff5"
+  },
+  "email_id": "EML0163",
+  "sender": "William Collins",
+  "sender_email": "sarahdaniels@example.com",
+  "is_update_case": false,
+  "subject": "Reminder: Pending Loan Details Request (Set 15)",
+  "body": "Hi,\n\nI would like to remind you about my existing request for loan details for Set 15. Please update me on this matter when possible.\n\nThank you,\nCustomer",
+  "attachments": [
+    "Attachment_4509.csv"
+  ],
+  "received_at": "2025-02-27T03:26:50.031189",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdff6"
+  },
+  "email_id": "EML0164",
+  "sender": "Christine Carter",
+  "sender_email": "erojas@example.org",
+  "is_update_case": false,
+  "subject": "Urgent Loan Details Request (Set 14)",
+  "body": "Hello,\n\nThis is to request details about my loan for Set 14. My account number is 492602. Kindly send the details swiftly.\n\nThank you,\nCustomer",
+  "attachments": [
+    "Attachment_3688.png",
+    "Attachment_2466.pdf",
+    "Attachment_5876.msg"
+  ],
+  "received_at": "2025-03-21T10:44:50.527918",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdff7"
+  },
+  "email_id": "EML0165",
+  "sender": "Bryan Peterson",
+  "sender_email": "lisa51@example.net",
+  "is_update_case": false,
+  "subject": "Follow-Up: Loan Inquiry (Set 4) - Request for Details",
+  "body": "Hi Team,\n\nThis is a gentle reminder for the loan details requested for Set 4. My account number is 571540. Please update me soon.\n\nBest,\nCustomer",
+  "attachments": [
+    "Attachment_7456.msg"
+  ],
+  "received_at": "2025-03-11T05:23:50.529358",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdff8"
+  },
+  "email_id": "EML0166",
+  "sender": "Jessica Meyer",
+  "sender_email": "isaac63@example.com",
+  "is_update_case": true,
+  "subject": "Update Needed: Revised Loan Details Request (Set 4)",
+  "body": "Dear Support,\n\nPlease update the loan information for Set 4 associated with 168898. I need the most current details on my outstanding balance and payment schedule.\n\nThank you,\nCustomer",
+  "attachments": [
+    "Attachment_5972.txt",
+    "Attachment_8335.jpg",
+    "Update_EML0166.txt"
+  ],
+  "received_at": "2025-03-12T02:11:51.025319",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdff9"
+  },
+  "email_id": "EML0167",
+  "sender": "Casey Hughes",
+  "sender_email": "elizabeth62@example.com",
+  "is_update_case": false,
+  "subject": "Update Needed: Loan Details Inquiry Follow-Up (Set 19)",
+  "body": "Hello,\n\nI am following up on the loan inquiry regarding Set 19 (Account 746942). Please provide an update as soon as possible.\n\nThanks,\nCustomer",
+  "attachments": [
+    "Attachment_7913.txt",
+    "Attachment_3690.png",
+    "Attachment_3096.pdf"
+  ],
+  "received_at": "2025-03-12T12:17:51.538253",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdffa"
+  },
+  "email_id": "EML0168",
+  "sender": "Denise Barnes",
+  "sender_email": "houstonnicholas@example.net",
+  "is_update_case": true,
+  "subject": "Request for Latest Loan Information Update (Set 12)",
+  "body": "Hello,\n\nI'd appreciate it if you could update my existing request for loan details for Set 12. I am specifically looking for details on my outstanding balance and next payment date for account 308264.\n\nRegards,\nCustomer",
+  "attachments": [
+    "Attachment_9947.docx",
+    "Attachment_5187.jpg",
+    "Update_EML0168.txt"
+  ],
+  "received_at": "2025-03-02T05:11:53.222924",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdffb"
+  },
+  "email_id": "EML0169",
+  "sender": "Charles Morrison",
+  "sender_email": "roseholmes@example.net",
+  "is_update_case": false,
+  "subject": "Re: Loan Inquiry - Request for Loan Details (Set 7)",
+  "body": "Hello,\n\nI am writing to remind you that my original request for loan details for Set 7 is still pending. Your prompt attention to this matter would be appreciated.\n\nSincerely,\nCustomer",
+  "attachments": [
+    "Attachment_3959.msg",
+    "Attachment_8907.msg"
+  ],
+  "received_at": "2025-03-09T04:22:53.224989",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdffc"
+  },
+  "email_id": "EML0170",
+  "sender": "Joseph Church",
+  "sender_email": "hortondenise@example.com",
+  "is_update_case": false,
+  "subject": "Immediate Loan Inquiry: Request for Loan Details (Set 12)",
+  "body": "Hello,\n\nI need some details regarding my loan for Set 12. My account is 340202. Please provide the information as soon as possible.\n\nSincerely,\nCustomer",
+  "attachments": [
+    "Attachment_3013.zip"
+  ],
+  "received_at": "2025-03-20T15:55:53.227827",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdffd"
+  },
+  "email_id": "EML0171",
+  "sender": "Judith Mccann",
+  "sender_email": "omcdonald@example.org",
+  "is_update_case": false,
+  "subject": "Loan Details Enquiry Follow-Up (Set 11)",
+  "body": "Hi,\n\nI am writing to gently remind you about my pending request for loan details for Set 11. I look forward to hearing from you soon.\n\nThank you,\nCustomer",
+  "attachments": [
+    "Attachment_9795.msg",
+    "Attachment_6158.html"
+  ],
+  "received_at": "2025-03-05T07:57:53.229835",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdffe"
+  },
+  "email_id": "EML0172",
+  "sender": "Gloria Jackson",
+  "sender_email": "bcoleman@example.net",
+  "is_update_case": true,
+  "subject": "Update: Request for Revised Loan Details (Set 1)",
+  "body": "Dear Team,\n\nI'm writing to request an update for my loan details for Set 1. My account 311906 requires the latest balance and upcoming payment information.\n\nBest,\nCustomer",
+  "attachments": [
+    "Attachment_5581.txt",
+    "Attachment_7723.html",
+    "Update_EML0172.txt"
+  ],
+  "received_at": "2025-03-20T14:33:53.232691",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffdfff"
+  },
+  "email_id": "EML0173",
+  "sender": "Mitchell Stevens",
+  "sender_email": "kyliemarshall@example.net",
+  "is_update_case": false,
+  "subject": "Immediate Loan Inquiry: Request for Loan Details (Set 15)",
+  "body": "Hello,\n\nI need some details regarding my loan for Set 15. My account is 720949. Please provide the information as soon as possible.\n\nSincerely,\nCustomer",
+  "attachments": [
+    "Attachment_9038.png",
+    "Attachment_9392.csv"
+  ],
+  "received_at": "2025-03-10T08:42:53.715236",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffe000"
+  },
+  "email_id": "EML0174",
+  "sender": "Jared Mcdonald",
+  "sender_email": "george66@example.net",
+  "is_update_case": false,
+  "subject": "Loan Details Inquiry - Urgent Request (Set 13)",
+  "body": "Dear Support,\n\nI request the loan details for Set 13 associated with account 611033. Please address this request at your earliest convenience.\n\nThank you,\nCustomer",
+  "attachments": [
+    "Attachment_4322.xlsx"
+  ],
+  "received_at": "2025-02-26T23:13:53.715264",
+  "status": "unprocessed",
+  "is_duplicate": true
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffe001"
+  },
+  "email_id": "EML0175",
+  "sender": "Craig Smith",
+  "sender_email": "jennifer32@example.com",
+  "is_update_case": true,
+  "subject": "Loan Inquiry - Update Request (Set 12)",
+  "body": "Hello,\n\nI am writing to request an update on my loan details for Set 12. My account 864972 needs refreshing with the latest information.\n\nSincerely,\nCustomer",
+  "attachments": [
+    "Attachment_3056.txt",
+    "Update_EML0175.txt"
+  ],
+  "received_at": "2025-03-25T10:41:53.718075",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffe002"
+  },
+  "email_id": "EML0176",
+  "sender": "Michelle Diaz",
+  "sender_email": "johnlawson@example.net",
+  "is_update_case": false,
+  "subject": "Update Needed: Loan Details Inquiry Follow-Up (Set 5)",
+  "body": "Hello,\n\ndelay regarding Set 5 (Account 432909). Please provide an update as soon as possible.\n\nThanks,\nCustomer",
+  "attachments": [
+    "Attachment_8941.msg",
+    "Attachment_9143.xlsx",
+    "Attachment_7651.xlsx"
+  ],
+  "received_at": "2025-03-16T21:50:53.738969",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffe003"
+  },
+  "email_id": "EML0177",
+  "sender": "Jeanette Mcdonald",
+  "sender_email": "ohogan@example.org",
+  "is_update_case": true,
+  "subject": "Loan Request Update - Seeking Latest Details (Set 14)",
+  "body": "Hi,\n\nKindly update my request for loan details for Set 14. I need the latest information regarding my balance and upcoming payment for account 733080.\n\nThank you,\nCustomer",
+  "attachments": [
+    "Attachment_2251.txt",
+    "Update_EML0177.txt"
+  ],
+  "received_at": "2025-03-12T14:30:53.741376",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffe004"
+  },
+  "email_id": "EML0178",
+  "sender": "Crystal Adams",
+  "sender_email": "zgutierrez@example.org",
+  "is_update_case": false,
+  "subject": "Reminder: Loan Inquiry Still Pending (Set 15)",
+  "body": "Hello,\n\nI am writing this follow-up to check on the status of my loan details request for Set 15. Please address the pending request as soon as possible.\n\nThank you,\nCustomer",
+  "attachments": [
+    "Attachment_8483.png",
+    "Attachment_9390.html"
+  ],
+  "received_at": "2025-03-25T07:18:54.259805",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffe005"
+  },
+  "email_id": "EML0179",
+  "sender": "Sabrina Miles MD",
+  "sender_email": "gmorton@example.org",
+  "is_update_case": false,
+  "subject": "Pending Request: Loan Details (Set 14)",
+  "body": "Hi,\n\nI kindly remind you to send the loan details for Set 14. I am still waiting for a response regarding my earlier inquiry.\n\nThanks,\nCustomer",
+  "attachments": [
+    "Attachment_4344.docx",
+    "Attachment_7173.txt"
+  ],
+  "received_at": "2025-03-17T15:25:54.281578",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffe006"
+  },
+  "email_id": "EML0180",
+  "sender": "Gabriel Horton",
+  "sender_email": "zlawrence@example.net",
+  "is_update_case": false,
+  "subject": "Second Request: Loan Details Follow-Up (Set 13)",
+  "body": "Hi,\n\nshare details of  13 (Account: 862558). I would appreciate a prompt update.\n\nRegards,\nCustomer",
+  "attachments": [
+    "Attachment_8970.zip",
+    "Attachment_1835.csv",
+    "Attachment_5374.txt"
+  ],
+  "received_at": "2025-03-09T16:49:54.287071",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffe007"
+  },
+  "email_id": "EML0181",
+  "sender": "Abigail Farmer",
+  "sender_email": "adamssamuel@example.net",
+  "is_update_case": false,
+  "subject": "Request for Loan Information - Loan Inquiry (Set 2)",
+  "body": "Hi,\n\nI am writing to request the latest details on my loan for Set 2. My account number 776964 is registered with you. Looking forward to your response.\n\nBest,\nCustomer",
+  "attachments": [
+    "Attachment_5336.pdf",
+    "Attachment_1302.pdf"
+  ],
+  "received_at": "2025-03-08T00:41:54.291000",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffe008"
+  },
+  "email_id": "EML0182",
+  "sender": "Natasha Vincent",
+  "sender_email": "bowersdennis@example.com",
+  "is_update_case": false,
+  "subject": "Follow-Up on Loan Inquiry (Set 8) - Request for Update",
+  "body": "Dear Support,\n\nThis is a reminder for the pending request for loan details for Set 8 associated with account 258892. Your urgent response is requested.\n\nRegards,\nCustomer",
+  "attachments": [
+    "Attachment_6454.png"
+  ],
+  "received_at": "2025-03-01T17:20:54.836602",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffe009"
+  },
+  "email_id": "EML0183",
+  "sender": "Richard Johnson",
+  "sender_email": "skinnersteven@example.net",
+  "is_update_case": true,
+  "subject": "Request for Latest Loan Information Update (Set 7)",
+  "body": "Hello,\n\nI'd appreciate it if you could update my existing request for loan details for Set 7. I am specifically looking for details on my outstanding balance and next payment date for account 557977.\n\nRegards,\nCustomer",
+  "attachments": [
+    "Attachment_4925.pdf",
+    "Attachment_2613.png",
+    "Update_EML0183.txt"
+  ],
+  "received_at": "2025-03-03T22:57:55.370891",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffe00a"
+  },
+  "email_id": "EML0184",
+  "sender": "Benjamin Brown",
+  "sender_email": "pnoble@example.com",
+  "is_update_case": false,
+  "subject": "Follow-Up on Loan Inquiry (Set 2) - Request for Update",
+  "body": "Dear Support,\n\nThis is a reminder for the pending request for loan details for Set 2 associated with account 639733. Your urgent response is requested.\n\nRegards,\nCustomer",
+  "attachments": [
+    "Attachment_8916.csv",
+    "Attachment_2007.jpg"
+  ],
+  "received_at": "2025-03-14T07:16:55.879741",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffe00b"
+  },
+  "email_id": "EML0185",
+  "sender": "Catherine Matthews",
+  "sender_email": "jennifergarza@example.org",
+  "is_update_case": true,
+  "subject": "Loan Request Update - Seeking Latest Details (Set 2)",
+  "body": "Hi,\n\nKindly update my request for loan details for Set 2. I need the latest information regarding my balance and upcoming payment for account 696924.\n\nThank you,\nCustomer",
+  "attachments": [
+    "Attachment_1468.csv",
+    "Attachment_1520.txt",
+    "Attachment_8233.pdf",
+    "Update_EML0185.txt"
+  ],
+  "received_at": "2025-03-05T01:17:55.884346",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffe00c"
+  },
+  "email_id": "EML0186",
+  "sender": "Jessica Peterson",
+  "sender_email": "erinpotts@example.net",
+  "is_update_case": false,
+  "subject": "Follow-Up on Loan Inquiry (Set 5)",
+  "body": "Dear Team,\n\nI wanted to follow up on my previous loan details request for Set 5. Please provide the necessary information regarding my inquiry.\n\nThank you,\nCustomer",
+  "attachments": [
+    "Attachment_7742.txt",
+    "Attachment_4000.html",
+    "Attachment_6690.docx"
+  ],
+  "received_at": "2025-03-21T23:44:55.909795",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffe00d"
+  },
+  "email_id": "EML0187",
+  "sender": "Brandon Lewis",
+  "sender_email": "uhaynes@example.net",
+  "is_update_case": false,
+  "subject": "Reminder Follow-Up: Loan Information Request (Set 3)",
+  "body": "Hi Team,\n\nI am contacting you again regarding my earlier request for loan details for Set 3 (Acc: 476770). Kindly provide an update at your earliest convenience.\n\nThank you,\nCustomer",
+  "attachments": [
+    "Attachment_6235.jpg"
+  ],
+  "received_at": "2025-03-03T12:10:56.411651",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffe00e"
+  },
+  "email_id": "EML0188",
+  "sender": "Rebecca Dorsey",
+  "sender_email": "sharoncruz@example.net",
+  "is_update_case": false,
+  "subject": "Loan Inquiry: Request for Loan Details (Set 4)",
+  "body": "Dear Team,\n\nCould you kindly provide the details of my loan for Set 4? My account number is 695379. I appreciate a prompt response.\n\nRegards,\nCustomer",
+  "attachments": [
+    "Attachment_1642.csv"
+  ],
+  "received_at": "2025-03-05T00:25:56.412816",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffe00f"
+  },
+  "email_id": "EML0189",
+  "sender": "Natasha Vincent",
+  "sender_email": "bowersdennis@example.com",
+  "is_update_case": false,
+  "subject": "Loan Inquiry Follow-Up - Request for Loan Details (Set 4)",
+  "body": "Hello,\n\nwe have prviously raised  for Set 4. I haven't received any update yet. Kindly respond as soon as possible.\n\nThank you,\nCustomer",
+  "attachments": [
+    "Attachment_7047.jpg"
+  ],
+  "received_at": "2025-03-03T16:36:56.952543",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffe010"
+  },
+  "email_id": "EML0190",
+  "sender": "Maureen Romero MD",
+  "sender_email": "pmorton@example.org",
+  "is_update_case": false,
+  "subject": "Follow-Up: Loan Inquiry (Set 7) - Request for Details",
+  "body": "Hi Team,\n\nThis is a gentle reminder for the loan details requested for Set 7. My account number is 590113. Please update me soon.\n\nBest,\nCustomer",
+  "attachments": [
+    "Attachment_6091.png"
+  ],
+  "received_at": "2025-03-06T00:11:57.503834",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffe011"
+  },
+  "email_id": "EML0191",
+  "sender": "Debbie Boyer",
+  "sender_email": "nicholscourtney@example.com",
+  "is_update_case": false,
+  "subject": "Follow-Up Inquiry: Loan Details Request (Set 20)",
+  "body": "Hello,\n\nI would like enquire on previous request for loan details for Set 20. My account is 247002. Please update me at the earliest.\n\nThank you,\nCustomer",
+  "attachments": [
+    "Attachment_8771.png"
+  ],
+  "received_at": "2025-02-26T05:10:58.039949",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffe012"
+  },
+  "email_id": "EML0192",
+  "sender": "Wesley Spence",
+  "sender_email": "edwardbaker@example.com",
+  "is_update_case": true,
+  "subject": "Updated Loan Request Information (Set 9)",
+  "body": "Dear Team,\n\nI would like to update my previous request for loan details for Set 9 (Account: 868834). Please provide updated information on my current balance and next payment date.\n\nRegards,\nCustomer",
+  "attachments": [
+    "Attachment_8971.jpg",
+    "Update_EML0192.txt"
+  ],
+  "received_at": "2025-03-13T20:02:58.548885",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffe013"
+  },
+  "email_id": "EML0193",
+  "sender": "Anthony Massey",
+  "sender_email": "peterlarsen@example.com",
+  "is_update_case": true,
+  "subject": "Loan Inquiry - Update Request (Set 13)",
+  "body": "Hello,\n\nI am writing to request an update on my loan details for Set 13. My account 324881 needs refreshing with the latest information.\n\nSincerely,\nCustomer",
+  "attachments": [
+    "Attachment_7333.txt",
+    "Attachment_4623.docx",
+    "Attachment_5757.png",
+    "Update_EML0193.txt"
+  ],
+  "received_at": "2025-03-10T23:01:59.090477",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffe014"
+  },
+  "email_id": "EML0194",
+  "sender": "David Chavez",
+  "sender_email": "xevans@example.org",
+  "is_update_case": false,
+  "subject": "Loan Inquiry Update Needed (Set 1)",
+  "body": "Dear Support,\n\nI would appreciate an update on my pending loan details request for Set 1. Please advise on the current status.\n\nSincerely,\nCustomer",
+  "attachments": [
+    "Attachment_1794.zip",
+    "Attachment_9013.zip",
+    "Attachment_7054.html"
+  ],
+  "received_at": "2025-03-11T00:10:59.097964",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffe015"
+  },
+  "email_id": "EML0195",
+  "sender": "Samantha Hart",
+  "sender_email": "jamesrodriguez@example.net",
+  "is_update_case": false,
+  "subject": "Immediate Loan Inquiry: Request for Loan Details (Set 11)",
+  "body": "Hello,\n\nI need some details regarding my loan for Set 11. My account is 923563. Please provide the information as soon as possible.\n\nSincerely,\nCustomer",
+  "attachments": [
+    "Attachment_9636.zip",
+    "Attachment_5395.pdf"
+  ],
+  "received_at": "2025-03-05T23:05:59.104582",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffe016"
+  },
+  "email_id": "EML0196",
+  "sender": "Dana Stephens",
+  "sender_email": "mmartinez@example.net",
+  "is_update_case": false,
+  "subject": "Urgent Loan Details Request (Set 18)",
+  "body": "Hello,\n\nThis is to request details about my loan for Set 18. My account number is 792870. Kindly send the details swiftly.\n\nThank you,\nCustomer",
+  "attachments": [
+    "Attachment_7345.zip",
+    "Attachment_7848.pdf"
+  ],
+  "received_at": "2025-03-18T19:06:59.104602",
+  "status": "unprocessed",
+  "is_duplicate": true
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffe017"
+  },
+  "email_id": "EML0197",
+  "sender": "Rhonda Chambers",
+  "sender_email": "ojohnson@example.net",
+  "is_update_case": false,
+  "subject": "Loan Details Request Reminder (Set 4)",
+  "body": "Dear Team,\n\nThis is a reminder that I have not yet received the loan details for Set 4. Kindly provide an update at your earliest convenience.\n\nRegards,\nCustomer",
+  "attachments": [
+    "Attachment_5841.docx",
+    "Attachment_6270.zip"
+  ],
+  "received_at": "2025-03-11T06:45:59.128014",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffe018"
+  },
+  "email_id": "EML0198",
+  "sender": "Vickie Vasquez",
+  "sender_email": "anthony57@example.net",
+  "is_update_case": true,
+  "subject": "Loan Inquiry - Update Request (Set 6)",
+  "body": "Hello,\n\nI am writing to request an update on my loan details for Set 6. My account 301358 needs refreshing with the latest information.\n\nSincerely,\nCustomer",
+  "attachments": [
+    "Attachment_8129.jpg",
+    "Update_EML0198.txt"
+  ],
+  "received_at": "2025-03-22T00:28:59.623674",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffe019"
+  },
+  "email_id": "EML0199",
+  "sender": "Andrea Jones",
+  "sender_email": "carl47@example.org",
+  "is_update_case": false,
+  "subject": "Pending Request: Loan Details (Set 9)",
+  "body": "Hi,\n\nI kindly remind you to send the loan details for Set 9. I am still waiting for a response regarding my earlier inquiry.\n\nThanks,\nCustomer",
+  "attachments": [
+    "Attachment_8734.pdf"
+  ],
+  "received_at": "2025-02-23T04:26:59.627164",
+  "status": "unprocessed",
+  "is_duplicate": false
+},
+{
+  "_id": {
+    "$oid": "67e2f753695f3ed2dcffe01a"
+  },
+  "email_id": "EML0200",
+  "sender": "Curtis Williams",
+  "sender_email": "kellyangela@example.net",
+  "is_update_case": false,
+  "subject": "Loan Details Request - Follow-Up Needed (Set 8)",
+  "body": "Hi,\n\nno update 10 emails Set 8. My account number is 539102. I look forward to your prompt response.\n\nSincerely,\nCustomer",
+  "attachments": [
+    "Attachment_3381.csv",
+    "Attachment_6936.zip"
+  ],
+  "received_at": "2025-03-04T16:55:59.631087",
+  "status": "unprocessed",
+  "is_duplicate": false
+}]
